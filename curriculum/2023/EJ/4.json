@@ -1,0 +1,382 @@
+[
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 4,
+    "title": "国語Ⅳ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "善塔　正志",
+    "id": 0
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 4,
+    "title": "保健体育Ⅳ-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "後藤　太之、小林　優希",
+    "id": 1
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 4,
+    "title": "保健体育Ⅳ-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "後藤　太之、前田　忠紀",
+    "id": 2
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 4,
+    "title": "英語ⅣＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "穐本　浩美",
+    "id": 3
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 4,
+    "title": "英語ⅣＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "森元　奈菜",
+    "id": 4
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 4,
+    "title": "Advanced English Ⅰ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "ハーバート　ジョン",
+    "id": 5
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 4,
+    "title": "Advanced English Ⅱ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "ハーバート　ジョン",
+    "id": 6
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 4,
+    "title": "中国語-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "有川　けい",
+    "id": 7
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 4,
+    "title": "中国語-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "有川　けい",
+    "id": 8
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 4,
+    "title": "ドイツ語-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "横田　一哉",
+    "id": 9
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 4,
+    "title": "ドイツ語-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "横田　一哉",
+    "id": 10
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 4,
+    "title": "フランス語-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "藤本　智成",
+    "id": 11
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 4,
+    "title": "フランス語-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "藤本　智成",
+    "id": 12
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 4,
+    "title": "数学概論",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "松宮　篤",
+    "id": 13
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "Ｃｏ＋ｗｏｒｋⅢＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "全教員",
+    "id": 14
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "Ｃｏ＋ｗｏｒｋⅢＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "全教員",
+    "id": 15
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "応用物理学Ⅰ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "小笠原　弘道",
+    "id": 16
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "電子回路Ⅰ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "大向　雅人",
+    "id": 17
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "課題研究",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "Ｅ全",
+    "id": 18
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "離散数学Ａ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "濱田　幸弘",
+    "id": 19
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "離散数学Ｂ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "濱田　幸弘",
+    "id": 20
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "計算機アーキテクチャ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "野村　隼人",
+    "id": 21
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "プログラミングⅢＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "平野　雅嗣",
+    "id": 22
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "プログラミングⅢＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "平野　雅嗣",
+    "id": 23
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "オペレーティングシステム",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "野村　隼人",
+    "id": 24
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "データ構造とアルゴリズム",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "濱田　幸弘",
+    "id": 25
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "情報工学実験ⅠＡ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "寺澤　真一、井上　一成、平野　雅嗣、野村　隼人、出口　幹雄",
+    "id": 26
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "情報工学実験ⅠＢ",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "中井　優一、寺澤　真一、榎本　隆二",
+    "id": 27
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 4,
+    "title": "電気情報インターンシップＡ",
+    "term": 0,
+    "credit": 1,
+    "lecturer": "Ｅ全",
+    "id": 28
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 4,
+    "title": "電気情報インターンシップＢ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "Ｅ全",
+    "id": 29
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 4,
+    "title": "電気磁気学ⅡＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "大向　雅人",
+    "id": 30
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 4,
+    "title": "電気磁気学ⅡＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "大向　雅人",
+    "id": 31
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 4,
+    "title": "応用数学Ａ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "小笠原　弘道",
+    "id": 32
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 4,
+    "title": "応用数学Ｂ",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "小笠原　弘道",
+    "id": 33
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 4,
+    "title": "応用物理学Ⅱ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "中西　寛",
+    "id": 34
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 4,
+    "title": "過渡現象論",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "周山　大慶",
+    "id": 35
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 4,
+    "title": "電子回路Ⅱ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "大向　雅人",
+    "id": 36
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 4,
+    "title": "制御工学Ⅰ",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "榎本　隆二",
+    "id": 37
+  }
+]

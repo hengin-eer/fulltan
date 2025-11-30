@@ -1,0 +1,172 @@
+[
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "国語Ⅲ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "丹下　暖子",
+    "id": 0
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "日本史",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "黒杭　良美",
+    "id": 1
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "数学ⅢＡ",
+    "term": 0,
+    "credit": 4,
+    "lecturer": "松宮　篤",
+    "id": 2
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "数学ⅢＢ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "藤　健太、三浦　嵩広",
+    "id": 3
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "サイエンスⅢＡ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "櫻井　信之、櫻井　康博",
+    "id": 4
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "サイエンスⅢＢ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "井上　努",
+    "id": 5
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "保健体育Ⅲ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "後藤　太之、石田　まさみ、小林　優希",
+    "id": 6
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "英語Ⅲ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "森元　奈菜",
+    "id": 7
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "英会話Ⅰ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "ハーバート　ジョン",
+    "id": 8
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "Ｃｏ＋ｗｏｒｋⅡＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "全教員",
+    "id": 9
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "Ｃｏ＋ｗｏｒｋⅡＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "全教員",
+    "id": 10
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "電気磁気学Ⅰ",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "梶村　好宏",
+    "id": 11
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "回路論",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "周山　大慶、細川　篤",
+    "id": 12
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "電気電子工学概論",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "廣田　敦志",
+    "id": 13
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "情報工学概論",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "大寺　亮",
+    "id": 14
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "ディジタル電子回路",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "中嶋　誠二、星野　光",
+    "id": 15
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "電気情報工学実験Ⅱ",
+    "term": 0,
+    "credit": 4,
+    "lecturer": "周山　大慶、細川　篤、廣田　敦志、榎本　隆二",
+    "id": 16
+  }
+]

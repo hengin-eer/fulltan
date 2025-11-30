@@ -1,0 +1,222 @@
+[
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "国語Ⅲ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "丹下　暖子",
+    "id": 0
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "日本史",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "黒杭　良美",
+    "id": 1
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "数学ⅢＡ",
+    "term": 0,
+    "credit": 4,
+    "lecturer": "松宮　篤",
+    "id": 2
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "数学ⅢＢ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "藤　健太",
+    "id": 3
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "サイエンスⅢＡ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "豊田　博俊、櫻井　康博",
+    "id": 4
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "サイエンスⅢＢ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "井上　努",
+    "id": 5
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "保健体育Ⅲ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "後藤　太之、石田　まさみ、小林　優希",
+    "id": 6
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "英語Ⅲ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "金澤　直志",
+    "id": 7
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "英会話Ⅰ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "ハーバート　ジョン",
+    "id": 8
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "Ｃｏ＋ｗｏｒｋⅡＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "全教員",
+    "id": 9
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "Ｃｏ＋ｗｏｒｋⅡＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "全教員",
+    "id": 10
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "設計製図ⅢＡ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "井奥　斎",
+    "id": 11
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "設計製図ⅢＢ",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "井奥　斎",
+    "id": 12
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "工作実習ⅢＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "加藤　隆弘、大森　茂俊",
+    "id": 13
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "工作実習ⅢＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "加藤　隆弘、大森　茂俊",
+    "id": 14
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "機械工学実験ⅠＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "加藤　隆弘、國峰　寛司、田中　誠一、藤原　誠之",
+    "id": 15
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "機械工学実験ⅠＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "加藤　隆弘、境田　彰芳、森下　智博、大森　茂俊、田中　誠一",
+    "id": 16
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "機構学",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "関森　大介",
+    "id": 17
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "工業力学Ⅰ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "國峰　寛司",
+    "id": 18
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "材料学Ⅰ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "境田　彰芳",
+    "id": 19
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "設計工学Ⅰ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "松塚　直樹",
+    "id": 20
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "材料力学Ⅰ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "森下　智博",
+    "id": 21
+  }
+]

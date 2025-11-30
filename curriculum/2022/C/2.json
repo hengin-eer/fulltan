@@ -1,0 +1,182 @@
+[
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "国語Ⅱ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "丹下　暖子、川渕　紗佳",
+    "id": 0
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "公共",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "黒杭　良美",
+    "id": 1
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "数学ⅡＡ",
+    "term": 0,
+    "credit": 4,
+    "lecturer": "松宮　篤",
+    "id": 2
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "数学ⅡＢ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "高田　功、紫垣　孝洋",
+    "id": 3
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "サイエンスⅡＡ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "武内　將洋、櫻井　康博",
+    "id": 4
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "サイエンスⅡＢ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "櫻井　康博",
+    "id": 5
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "保健体育Ⅱ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "後藤　太之、小林　優希",
+    "id": 6
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "英語ⅡＡ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "金澤　直志",
+    "id": 7
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "英語ⅡＢ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "北川　千穂",
+    "id": 8
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "グローバルスタディーズ入門",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "荒川　裕紀",
+    "id": 9
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "Ｃｏ＋ｗｏｒｋⅠＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "全教員",
+    "id": 10
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "Ｃｏ＋ｗｏｒｋⅠＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "全教員",
+    "id": 11
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 2,
+    "title": "情報処理Ⅰ",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "渡部　守義",
+    "id": 12
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 2,
+    "title": "測量学Ⅱ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "石松　一仁",
+    "id": 13
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 2,
+    "title": "建設材料Ⅰ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "武田　字浦",
+    "id": 14
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 2,
+    "title": "建設材料Ⅱ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "武田　字浦",
+    "id": 15
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 2,
+    "title": "測量演習Ⅰ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "生田　麻実、内藤　永秀、大城　雄希",
+    "id": 16
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 2,
+    "title": "測量演習Ⅱ",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "生田　麻実、内藤　永秀、大城　雄希",
+    "id": 17
+  }
+]
