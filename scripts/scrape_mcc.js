@@ -121,7 +121,7 @@ async function save(filename, object) {
     const browser = await puppeteer.launch()
 
     const year = process.argv[2]
-    const dest = process.argv[3]
+    const dest = 'curriculum'
     const lang = "ja"
     const schoolId = 27 // 明石高専
     const syllabus = await getAllSyllabus(browser, schoolId, year, lang)
