@@ -1,0 +1,312 @@
+[
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "国語Ⅲ-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "丹下　暖子",
+    "id": 0
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "国語Ⅲ-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "小西　洋子",
+    "id": 1
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "政治学-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "林　礼釗",
+    "id": 2
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "政治学-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "林　礼釗",
+    "id": 3
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "数学ⅢＡ-1",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "松宮　篤",
+    "id": 4
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "数学ⅢＡ-2",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "松宮　篤",
+    "id": 5
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "数学ⅢＢ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "島田　英彦",
+    "id": 6
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "基礎力学",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "小笠原　弘道",
+    "id": 7
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "サイエンスⅢ-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "櫻井　康博",
+    "id": 8
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "サイエンスⅢ-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "櫻井　康博",
+    "id": 9
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "保健体育Ⅲ-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "後藤　太之、石田　まさみ",
+    "id": 10
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "保健体育Ⅲ-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "石田　まさみ、前田　忠紀",
+    "id": 11
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "英語Ⅲ-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "北川　千穂",
+    "id": 12
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "英語Ⅲ-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "森元　奈菜",
+    "id": 13
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "英会話Ⅰ-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "アナンド　サンチット",
+    "id": 14
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "英会話Ⅰ-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "ハーバート　ジョン",
+    "id": 15
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "Ｃｏ＋ｗｏｒｋⅡＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "全教員",
+    "id": 16
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "Ｃｏ＋ｗｏｒｋⅡＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "全教員",
+    "id": 17
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 3,
+    "title": "ＩＣＴ資格Ⅱ",
+    "term": 0,
+    "credit": 1,
+    "lecturer": "武内　將洋",
+    "id": 18
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 3,
+    "title": "数学資格Ⅱ",
+    "term": 0,
+    "credit": 1,
+    "lecturer": "面田　康裕",
+    "id": 19
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "設計製図ⅢＡ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "井奥　斎",
+    "id": 20
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "設計製図ⅢＢ",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "井奥　斎",
+    "id": 21
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "工作実習ⅢＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "加藤　隆弘、大森　茂俊",
+    "id": 22
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "工作実習ⅢＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "加藤　隆弘、大森　茂俊",
+    "id": 23
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "機械工学実験ⅠＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "加藤　隆弘、國峰　寛司、田中　誠一",
+    "id": 24
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "機械工学実験ⅠＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "加藤　隆弘、國峰　寛司、森下　智博、田中　誠一",
+    "id": 25
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "機構学",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "関森　大介",
+    "id": 26
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "工業力学Ⅰ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "國峰　寛司",
+    "id": 27
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "材料学Ⅰ",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "國峰　寛司",
+    "id": 28
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "設計工学Ⅰ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "松塚　直樹",
+    "id": 29
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "材料力学Ⅰ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "森下　智博",
+    "id": 30
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 4,
+    "title": "英語ⅣＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "森元　奈菜",
+    "id": 0
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 4,
+    "title": "英語ⅣＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "北川　千穂",
+    "id": 1
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 4,
+    "title": "Advanced English Ⅰ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "ハーバート　ジョン",
+    "id": 2
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 4,
+    "title": "Advanced English Ⅱ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "ハーバート　ジョン",
+    "id": 3
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 4,
+    "title": "第二外国語（中国語）-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "有川　けい",
+    "id": 4
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 4,
+    "title": "第二外国語（中国語）-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "有川　けい",
+    "id": 5
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 4,
+    "title": "国語表現概論",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "丹下　暖子",
+    "id": 6
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 4,
+    "title": "リーディングスキル",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "小西　洋子",
+    "id": 7
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 4,
+    "title": "法学概論",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "林　礼釗",
+    "id": 8
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 4,
+    "title": "哲学概論",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "荒川　裕紀",
+    "id": 9
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 4,
+    "title": "スポーツ科学実習Ⅰ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "後藤　太之、前田　忠紀",
+    "id": 10
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 4,
+    "title": "スポーツ科学実習Ⅱ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "後藤　太之、前田　忠紀",
+    "id": 11
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 4,
+    "title": "ＩＣＴ資格Ⅲ",
+    "term": 0,
+    "credit": 1,
+    "lecturer": "武内　將洋",
+    "id": 12
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 4,
+    "title": "数学資格Ⅲ",
+    "term": 0,
+    "credit": 1,
+    "lecturer": "面田　康裕",
+    "id": 13
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "Ｃｏ＋ｗｏｒｋⅢＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "全教員",
+    "id": 14
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "Ｃｏ＋ｗｏｒｋⅢＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "全教員",
+    "id": 15
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "応用数学Ａ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "小笠原　弘道",
+    "id": 16
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "応用数学Ｂ",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "堀口　達也",
+    "id": 17
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "応用物理Ａ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "小笠原　弘道",
+    "id": 18
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "応用物理Ｂ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "島田　英彦",
+    "id": 19
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "情報処理Ⅱ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "ラ　ホウグン",
+    "id": 20
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "コンクリート構造学",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "武田　字浦",
+    "id": 21
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "構造力学Ⅲ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "大城　雄希",
+    "id": 22
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "水理学Ⅲ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "上野　卓也",
+    "id": 23
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "地盤工学Ⅲ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "鍋島　康之",
+    "id": 24
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "社会基盤マネジメント",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "武田　字浦",
+    "id": 25
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "衛生工学",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "渡部　守義",
+    "id": 26
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "計画学Ⅰ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "小野　暁",
+    "id": 27
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "計画学Ⅱ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "小塚　みすず",
+    "id": 28
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "工学実験Ⅱ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "上野　卓也、鍋島　康之、小川　芳也",
+    "id": 29
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "工学実験Ⅲ",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "渡部　守義、小野　暁、神田　佳一",
+    "id": 30
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 4,
+    "title": "都市システムインターンシップ",
+    "term": 0,
+    "credit": 1,
+    "lecturer": "Ｃ全　、企業等担当者",
+    "id": 31
+  }
+]

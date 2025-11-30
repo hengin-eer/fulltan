@@ -1,0 +1,282 @@
+[
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 5,
+    "title": "英会話Ⅱ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "ハーバート　ジョン",
+    "id": 0
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 5,
+    "title": "英語Ⅴ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "森元　奈菜",
+    "id": 1
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 5,
+    "title": "Advanced English Ⅲ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "ハーバート　ジョン",
+    "id": 2
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 5,
+    "title": "Advanced English Ⅳ",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "ハーバート　ジョン",
+    "id": 3
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 5,
+    "title": "国語表現概論",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "丹下　暖子",
+    "id": 4
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 5,
+    "title": "法学概論",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "林　礼釗",
+    "id": 5
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 5,
+    "title": "哲学概論",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "荒川　裕紀",
+    "id": 6
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 5,
+    "title": "生物物理化学",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "小笠原　弘道",
+    "id": 7
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 5,
+    "title": "科学技術と環境",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "今井　良一",
+    "id": 8
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 5,
+    "title": "スポーツ科学実習Ⅰ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "後藤　太之、石田　まさみ",
+    "id": 9
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 5,
+    "title": "スポーツ科学実習Ⅱ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "後藤　太之、石田　まさみ",
+    "id": 10
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 5,
+    "title": "ＴＯＥＩＣⅠ",
+    "term": 0,
+    "credit": 1,
+    "lecturer": "ハーバート　ジョン",
+    "id": 11
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 5,
+    "title": "ＴＯＥＩＣⅡ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "ハーバート　ジョン",
+    "id": 12
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 5,
+    "title": "ＴＯＥＩＣⅢ",
+    "term": 0,
+    "credit": 3,
+    "lecturer": "ハーバート　ジョン",
+    "id": 13
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 5,
+    "title": "土質基礎構造",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "小野　暁、金間　隆仁",
+    "id": 14
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 5,
+    "title": "都市地域計画",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "佐伯　亮太",
+    "id": 15
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 5,
+    "title": "建築設備Ａ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "平石　年弘",
+    "id": 16
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 5,
+    "title": "建築設備Ｂ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "平石　年弘",
+    "id": 17
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 5,
+    "title": "建築生産Ａ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "中川　肇",
+    "id": 18
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 5,
+    "title": "建築生産Ｂ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "中川　肇",
+    "id": 19
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 5,
+    "title": "建築法規",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "浦野　淳一、景山　誠",
+    "id": 20
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 5,
+    "title": "卒業研究",
+    "term": 0,
+    "credit": 7,
+    "lecturer": "Ａ全",
+    "id": 21
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 5,
+    "title": "建築構造特論Ａ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "中川　肇",
+    "id": 22
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 5,
+    "title": "建築構造特論Ｂ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "市澤　勇彦",
+    "id": 23
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 5,
+    "title": "建築構造演習",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "中川　肇",
+    "id": 24
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 5,
+    "title": "建築史Ⅲ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "江本　弘",
+    "id": 25
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 5,
+    "title": "建築計画Ⅴ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "工藤　和美",
+    "id": 26
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 5,
+    "title": "建築学演習",
+    "term": 1,
+    "credit": 4,
+    "lecturer": "本塚　智貴、大久保　武志",
+    "id": 27
+  }
+]

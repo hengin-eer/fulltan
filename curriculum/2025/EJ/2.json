@@ -1,0 +1,302 @@
+[
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "国語Ⅱ-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "丹下　暖子",
+    "id": 0
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "国語Ⅱ-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "丹下　暖子",
+    "id": 1
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "公共",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "林　礼釗",
+    "id": 2
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "グローバルスタディーズ入門",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "黒杭　良美、久保田　育美",
+    "id": 3
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "数学ⅡＡ-1",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "堀口　達也",
+    "id": 4
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "数学ⅡＡ-2",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "面田　康裕",
+    "id": 5
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "数学ⅡＢ-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "高田　功、面田　康裕",
+    "id": 6
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "数学ⅡＢ-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "高田　功、堀口　達也",
+    "id": 7
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "サイエンスⅡＡ-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "武内　將洋",
+    "id": 8
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "サイエンスⅡＡ-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "武内　將洋、豊田　博俊、櫻井　信之",
+    "id": 9
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "サイエンスⅡＢ-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "櫻井　康博",
+    "id": 10
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "サイエンスⅡＢ-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "櫻井　康博",
+    "id": 11
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "保健体育Ⅱ-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "前田　忠紀、石田　まさみ",
+    "id": 12
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "保健体育Ⅱ-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "後藤　太之、小林　優希",
+    "id": 13
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "英語ⅡＡ-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "ハーバート　ジョン",
+    "id": 14
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "英語ⅡＡ-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "森元　奈菜",
+    "id": 15
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "英語ⅡＢ-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "森元　奈菜",
+    "id": 16
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "英語ⅡＢ-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "森元　奈菜",
+    "id": 17
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "Ｃｏ＋ｗｏｒｋⅠＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "全教員",
+    "id": 18
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 2,
+    "title": "Ｃｏ＋ｗｏｒｋⅠＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "全教員",
+    "id": 19
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 2,
+    "title": "ＩＣＴ資格Ⅰ",
+    "term": 0,
+    "credit": 1,
+    "lecturer": "武内　將洋",
+    "id": 20
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 2,
+    "title": "数学資格Ⅰ",
+    "term": 0,
+    "credit": 1,
+    "lecturer": "面田　康裕",
+    "id": 21
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 2,
+    "title": "電気回路ⅡＡ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "梶村　好宏",
+    "id": 22
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 2,
+    "title": "電気回路ⅡＢ",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "梶村　好宏",
+    "id": 23
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 2,
+    "title": "プログラミングⅡＡ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "土田　隼之",
+    "id": 24
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 2,
+    "title": "プログラミングⅡＢ",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "平野　雅嗣",
+    "id": 25
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 2,
+    "title": "電気電子計測 Ａ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "細川　篤",
+    "id": 26
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 2,
+    "title": "電気電子計測 Ｂ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "細川　篤",
+    "id": 27
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 2,
+    "title": "マイクロコンピュータ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "野村　隼人",
+    "id": 28
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 2,
+    "title": "電気情報工学実験Ⅰ",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "梶村　好宏、周山　大慶、細川　篤、秋山　肇",
+    "id": 29
+  }
+]

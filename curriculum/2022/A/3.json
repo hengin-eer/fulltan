@@ -1,0 +1,212 @@
+[
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "国語Ⅲ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "小西　洋子",
+    "id": 0
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "日本史",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "黒杭　良美",
+    "id": 1
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "数学ⅢＡ",
+    "term": 0,
+    "credit": 4,
+    "lecturer": "高田　功、松宮　篤",
+    "id": 2
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "数学ⅢＢ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "長尾　秀人",
+    "id": 3
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "サイエンスⅢＡ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "櫻井　信之、櫻井　康博",
+    "id": 4
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "サイエンスⅢＢ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "井上　努",
+    "id": 5
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "保健体育Ⅲ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "後藤　太之、石田　まさみ、小林　優希",
+    "id": 6
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "英語Ⅲ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "平川　裕己",
+    "id": 7
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "英会話Ⅰ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "ハーバート　ジョン",
+    "id": 8
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "Ｃｏ＋ｗｏｒｋⅡＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "全教員",
+    "id": 9
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "Ｃｏ＋ｗｏｒｋⅡＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "全教員",
+    "id": 10
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "建築情報デザイン",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "工藤　和美",
+    "id": 11
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "建築構造力学ⅡＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "中川　肇",
+    "id": 12
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "建築構造力学ⅡＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "荘所　直哉",
+    "id": 13
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "建築材料",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "角野　嘉則",
+    "id": 14
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "建築計画Ⅰ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "水島　あかね",
+    "id": 15
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "建築計画Ⅱ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "水島　あかね",
+    "id": 16
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "建築設計演習ⅢＡ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "工藤　和美、徳岡　浩二、本塚　智貴",
+    "id": 17
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "建築設計演習ⅢＢ",
+    "term": 2,
+    "credit": 4,
+    "lecturer": "工藤　和美、寺岡　宏治、佐伯　亮太",
+    "id": 18
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "建築環境工学Ⅰ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "飛田　国人",
+    "id": 19
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "図学",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "工藤　和美",
+    "id": 20
+  }
+]

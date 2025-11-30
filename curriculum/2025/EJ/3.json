@@ -1,0 +1,292 @@
+[
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "国語ⅢA",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "丹下　暖子",
+    "id": 0
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "国語ⅢB",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "小西　洋子",
+    "id": 1
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "政治学-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "林　礼釗",
+    "id": 2
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "政治学-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "林　礼釗、黒杭　良美",
+    "id": 3
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "数学ⅢＡ-1",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "高田　功",
+    "id": 4
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "数学ⅢＡ-2",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "松宮　篤",
+    "id": 5
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "数学ⅢＢ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "島田　英彦",
+    "id": 6
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "サイエンスⅢ-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "櫻井　康博",
+    "id": 7
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "サイエンスⅢ-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "櫻井　康博",
+    "id": 8
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "基礎力学",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "小笠原　弘道",
+    "id": 9
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "保健体育Ⅲ-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "後藤　太之、前田　忠紀",
+    "id": 10
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "保健体育Ⅲ-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "小林　優希、前田　忠紀",
+    "id": 11
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "英語Ⅲ-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "佐川　寛知",
+    "id": 12
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "英語Ⅲ-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "田丸　歩実",
+    "id": 13
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "英会話Ⅰ-1",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "ハーバート　ジョン",
+    "id": 14
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "英会話Ⅰ-2",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "ハーバート　ジョン",
+    "id": 15
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "Ｃｏ＋ｗｏｒｋⅡＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "全教員",
+    "id": 16
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 3,
+    "title": "Ｃｏ＋ｗｏｒｋⅡＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "全教員",
+    "id": 17
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 3,
+    "title": "ＩＣＴ資格Ⅱ",
+    "term": 0,
+    "credit": 1,
+    "lecturer": "武内　將洋",
+    "id": 18
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 3,
+    "title": "数学資格Ⅱ",
+    "term": 0,
+    "credit": 1,
+    "lecturer": "面田　康裕",
+    "id": 19
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "電気磁気学Ⅰ",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "大向　雅人",
+    "id": 20
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "回路論 Ａ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "細川　篤",
+    "id": 21
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "回路論 Ｂ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "周山　大慶",
+    "id": 22
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "電気電子工学概論",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "廣田　敦志",
+    "id": 23
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "情報工学概論",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "土田　隼之",
+    "id": 24
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "ディジタル電子回路 Ａ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "細川　篤",
+    "id": 25
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "ディジタル電子回路 Ｂ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "大向　雅人",
+    "id": 26
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "電気情報工学実験ⅡＡ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "周山　大慶、細川　篤、廣田　敦志、梶村　好宏",
+    "id": 27
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 3,
+    "title": "電気情報工学実験ⅡＢ",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "周山　大慶、廣田　敦志、秋山　肇",
+    "id": 28
+  }
+]

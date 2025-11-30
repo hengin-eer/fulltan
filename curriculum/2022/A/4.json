@@ -1,0 +1,292 @@
+[
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 4,
+    "title": "国語Ⅳ",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "善塔　正志",
+    "id": 0
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 4,
+    "title": "保健体育Ⅳ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "石田　まさみ、前田　忠紀",
+    "id": 1
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 4,
+    "title": "英語ⅣＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "井上　英俊",
+    "id": 2
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 4,
+    "title": "英語ⅣＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "北川　千穂",
+    "id": 3
+  },
+  {
+    "divide": 0,
+    "required": true,
+    "grade": 4,
+    "title": "英会話Ⅱ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "ハーバート　ジョン",
+    "id": 4
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 4,
+    "title": "中国語",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "有川　けい",
+    "id": 5
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 4,
+    "title": "ドイツ語",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "横田　一哉",
+    "id": 6
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 4,
+    "title": "フランス語",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "藤本　智成",
+    "id": 7
+  },
+  {
+    "divide": 0,
+    "required": false,
+    "grade": 4,
+    "title": "数学概論",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "面田　康裕",
+    "id": 8
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "Ｃｏ＋ｗｏｒｋⅢＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "全教員",
+    "id": 9
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "Ｃｏ＋ｗｏｒｋⅢＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "全教員",
+    "id": 10
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "応用数学",
+    "term": 0,
+    "credit": 4,
+    "lecturer": "河田　祥太郎",
+    "id": 11
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "物理学入門Ａ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "小笠原　弘道",
+    "id": 12
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "建築構造力学ⅢＡ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "荘所　直哉",
+    "id": 13
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "建築構造力学ⅢＢ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "中川　肇",
+    "id": 14
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "建築工学実験",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "荘所　直哉、角野　嘉則",
+    "id": 15
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "鉄筋コンクリート構造Ａ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "角野　嘉則",
+    "id": 16
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "鉄筋コンクリート構造Ｂ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "角野　嘉則",
+    "id": 17
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "鋼構造Ａ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "中川　肇",
+    "id": 18
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "鋼構造Ｂ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "中川　肇",
+    "id": 19
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "建築計画Ⅲ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "本塚　智貴",
+    "id": 20
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "建築設計演習ⅣＡ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "東野　アドリアナ、水島　あかね、小林　直紀",
+    "id": 21
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "建築設計演習ⅣＢ",
+    "term": 2,
+    "credit": 4,
+    "lecturer": "水島　あかね、神家　昭雄、本塚　智貴",
+    "id": 22
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "建築環境工学Ⅱ",
+    "term": 1,
+    "credit": 2,
+    "lecturer": "飛田　国人",
+    "id": 23
+  },
+  {
+    "divide": 1,
+    "required": true,
+    "grade": 4,
+    "title": "建築ゼミナール",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "Ａ全",
+    "id": 24
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 4,
+    "title": "物理学入門Ｂ",
+    "term": 2,
+    "credit": 1,
+    "lecturer": "小笠原　弘道",
+    "id": 25
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 4,
+    "title": "建築史Ⅱ",
+    "term": 1,
+    "credit": 1,
+    "lecturer": "東野　アドリアナ",
+    "id": 26
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 4,
+    "title": "建築計画Ⅳ",
+    "term": 2,
+    "credit": 2,
+    "lecturer": "工藤　和美、東野　アドリアナ、木村　達也",
+    "id": 27
+  },
+  {
+    "divide": 1,
+    "required": false,
+    "grade": 4,
+    "title": "建築インターンシップ",
+    "term": 0,
+    "credit": 2,
+    "lecturer": "Ａ全",
+    "id": 28
+  }
+]
