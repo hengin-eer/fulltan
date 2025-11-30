@@ -6,8 +6,8 @@
     "title": "国語Ⅱ-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "善塔　正志",
-    "id": 0
+    "lecturer": "善塔 正志",
+    "id": 29
   },
   {
     "divide": 0,
@@ -16,8 +16,8 @@
     "title": "国語Ⅱ-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "善塔　正志",
-    "id": 1
+    "lecturer": "善塔 正志",
+    "id": 30
   },
   {
     "divide": 0,
@@ -26,8 +26,8 @@
     "title": "グローバルスタディーズ入門",
     "term": 2,
     "credit": 1,
-    "lecturer": "ルクミナイテ・アナンド　シモナ",
-    "id": 2
+    "lecturer": "ルクミナイテ・アナンド シモナ",
+    "id": 31
   },
   {
     "divide": 0,
@@ -36,8 +36,8 @@
     "title": "公共",
     "term": 1,
     "credit": 1,
-    "lecturer": "黒杭　良美",
-    "id": 3
+    "lecturer": "黒杭 良美",
+    "id": 32
   },
   {
     "divide": 0,
@@ -46,8 +46,8 @@
     "title": "数学ⅡＡ-1",
     "term": 1,
     "credit": 2,
-    "lecturer": "長尾　秀人",
-    "id": 4
+    "lecturer": "長尾 秀人",
+    "id": 33
   },
   {
     "divide": 0,
@@ -56,8 +56,8 @@
     "title": "数学ⅡＡ-2",
     "term": 2,
     "credit": 2,
-    "lecturer": "長尾　秀人",
-    "id": 5
+    "lecturer": "長尾 秀人",
+    "id": 34
   },
   {
     "divide": 0,
@@ -66,8 +66,8 @@
     "title": "数学ⅡＢ-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "中村　元",
-    "id": 6
+    "lecturer": "中村 元",
+    "id": 35
   },
   {
     "divide": 0,
@@ -76,8 +76,8 @@
     "title": "数学ⅡＢ-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "中村　元",
-    "id": 7
+    "lecturer": "中村 元",
+    "id": 36
   },
   {
     "divide": 0,
@@ -86,8 +86,8 @@
     "title": "サイエンスⅡＡ-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "武内　將洋",
-    "id": 8
+    "lecturer": "武内 將洋",
+    "id": 37
   },
   {
     "divide": 0,
@@ -96,8 +96,8 @@
     "title": "サイエンスⅡＡ-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "武内　將洋",
-    "id": 9
+    "lecturer": "武内 將洋",
+    "id": 38
   },
   {
     "divide": 0,
@@ -106,8 +106,8 @@
     "title": "サイエンスⅡＢ-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "櫻井　康博",
-    "id": 10
+    "lecturer": "櫻井 康博",
+    "id": 39
   },
   {
     "divide": 0,
@@ -116,8 +116,8 @@
     "title": "サイエンスⅡＢ-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "櫻井　康博",
-    "id": 11
+    "lecturer": "櫻井 康博",
+    "id": 40
   },
   {
     "divide": 0,
@@ -126,8 +126,8 @@
     "title": "保健体育Ⅱ-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "石田　まさみ、小林　優希",
-    "id": 12
+    "lecturer": "石田 まさみ,小林 優希",
+    "id": 41
   },
   {
     "divide": 0,
@@ -136,8 +136,8 @@
     "title": "保健体育Ⅱ-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "後藤　太之、石田　まさみ",
-    "id": 13
+    "lecturer": "後藤 太之,石田 まさみ",
+    "id": 42
   },
   {
     "divide": 0,
@@ -146,8 +146,8 @@
     "title": "英語ⅡＡ-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "ハーバート　ジョン",
-    "id": 14
+    "lecturer": "ハーバート ジョン",
+    "id": 43
   },
   {
     "divide": 0,
@@ -156,8 +156,8 @@
     "title": "英語ⅡＡ-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "井上　英俊",
-    "id": 15
+    "lecturer": "井上 英俊",
+    "id": 44
   },
   {
     "divide": 0,
@@ -166,8 +166,8 @@
     "title": "英語ⅡＢ-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "井上　英俊",
-    "id": 16
+    "lecturer": "井上 英俊",
+    "id": 45
   },
   {
     "divide": 0,
@@ -176,8 +176,8 @@
     "title": "英語ⅡＢ-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "井上　英俊",
-    "id": 17
+    "lecturer": "井上 英俊",
+    "id": 46
   },
   {
     "divide": 0,
@@ -187,7 +187,7 @@
     "term": 1,
     "credit": 1,
     "lecturer": "全教員",
-    "id": 18
+    "id": 47
   },
   {
     "divide": 0,
@@ -197,7 +197,7 @@
     "term": 2,
     "credit": 1,
     "lecturer": "全教員",
-    "id": 19
+    "id": 48
   },
   {
     "divide": 0,
@@ -206,8 +206,8 @@
     "title": "ＩＣＴ資格Ⅰ",
     "term": 0,
     "credit": 1,
-    "lecturer": "武内　將洋",
-    "id": 20
+    "lecturer": "武内 將洋",
+    "id": 49
   },
   {
     "divide": 0,
@@ -216,8 +216,8 @@
     "title": "数学資格Ⅰ",
     "term": 0,
     "credit": 1,
-    "lecturer": "長尾　秀人",
-    "id": 21
+    "lecturer": "長尾 秀人",
+    "id": 50
   },
   {
     "divide": 1,
@@ -226,8 +226,8 @@
     "title": "電気回路ⅡＡ",
     "term": 1,
     "credit": 2,
-    "lecturer": "梶村　好宏",
-    "id": 22
+    "lecturer": "梶村 好宏",
+    "id": 51
   },
   {
     "divide": 1,
@@ -236,8 +236,8 @@
     "title": "電気回路ⅡＢ",
     "term": 2,
     "credit": 2,
-    "lecturer": "梶村　好宏",
-    "id": 23
+    "lecturer": "梶村 好宏",
+    "id": 52
   },
   {
     "divide": 1,
@@ -246,8 +246,8 @@
     "title": "プログラミングⅡＡ",
     "term": 1,
     "credit": 2,
-    "lecturer": "土田　隼之",
-    "id": 24
+    "lecturer": "土田 隼之",
+    "id": 53
   },
   {
     "divide": 1,
@@ -256,8 +256,8 @@
     "title": "プログラミングⅡＢ",
     "term": 2,
     "credit": 2,
-    "lecturer": "平野　雅嗣",
-    "id": 25
+    "lecturer": "平野 雅嗣",
+    "id": 54
   },
   {
     "divide": 1,
@@ -266,8 +266,8 @@
     "title": "電気電子計測 Ａ",
     "term": 1,
     "credit": 1,
-    "lecturer": "細川　篤",
-    "id": 26
+    "lecturer": "細川 篤",
+    "id": 55
   },
   {
     "divide": 1,
@@ -276,8 +276,8 @@
     "title": "電気電子計測 Ｂ",
     "term": 2,
     "credit": 1,
-    "lecturer": "細川　篤",
-    "id": 27
+    "lecturer": "細川 篤",
+    "id": 56
   },
   {
     "divide": 1,
@@ -286,8 +286,8 @@
     "title": "マイクロコンピュータ",
     "term": 1,
     "credit": 2,
-    "lecturer": "出口　幹雄",
-    "id": 28
+    "lecturer": "出口 幹雄",
+    "id": 57
   },
   {
     "divide": 1,
@@ -296,7 +296,7 @@
     "title": "電気情報工学実験Ⅰ",
     "term": 2,
     "credit": 2,
-    "lecturer": "梶村　好宏、周山　大慶、細川　篤、榎本　隆二、出口　幹雄",
-    "id": 29
+    "lecturer": "梶村 好宏,周山 大慶,細川 篤,榎本 隆二,出口 幹雄",
+    "id": 58
   }
 ]

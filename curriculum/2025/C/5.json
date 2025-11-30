@@ -6,8 +6,8 @@
     "title": "英会話Ⅱ",
     "term": 2,
     "credit": 1,
-    "lecturer": "ハーバート　ジョン",
-    "id": 0
+    "lecturer": "ハーバート ジョン",
+    "id": 119
   },
   {
     "divide": 0,
@@ -16,8 +16,8 @@
     "title": "英語Ⅴ",
     "term": 1,
     "credit": 2,
-    "lecturer": "森元　奈菜",
-    "id": 1
+    "lecturer": "森元 奈菜",
+    "id": 120
   },
   {
     "divide": 0,
@@ -26,8 +26,8 @@
     "title": "Advanced English Ⅲ",
     "term": 1,
     "credit": 1,
-    "lecturer": "ハーバート　ジョン",
-    "id": 2
+    "lecturer": "ハーバート ジョン",
+    "id": 121
   },
   {
     "divide": 0,
@@ -36,8 +36,8 @@
     "title": "Advanced English Ⅳ",
     "term": 2,
     "credit": 2,
-    "lecturer": "ハーバート　ジョン",
-    "id": 3
+    "lecturer": "ハーバート ジョン",
+    "id": 122
   },
   {
     "divide": 0,
@@ -46,8 +46,8 @@
     "title": "国語表現概論",
     "term": 1,
     "credit": 2,
-    "lecturer": "丹下　暖子",
-    "id": 4
+    "lecturer": "丹下 暖子",
+    "id": 123
   },
   {
     "divide": 0,
@@ -56,8 +56,8 @@
     "title": "法学概論",
     "term": 1,
     "credit": 2,
-    "lecturer": "林　礼釗",
-    "id": 5
+    "lecturer": "林 礼釗",
+    "id": 124
   },
   {
     "divide": 0,
@@ -66,8 +66,8 @@
     "title": "哲学概論",
     "term": 1,
     "credit": 2,
-    "lecturer": "荒川　裕紀",
-    "id": 6
+    "lecturer": "荒川 裕紀",
+    "id": 125
   },
   {
     "divide": 0,
@@ -76,8 +76,8 @@
     "title": "生物物理化学",
     "term": 2,
     "credit": 1,
-    "lecturer": "小笠原　弘道",
-    "id": 7
+    "lecturer": "小笠原 弘道",
+    "id": 126
   },
   {
     "divide": 0,
@@ -86,8 +86,8 @@
     "title": "科学技術と環境",
     "term": 2,
     "credit": 1,
-    "lecturer": "今井　良一",
-    "id": 8
+    "lecturer": "今井 良一",
+    "id": 127
   },
   {
     "divide": 0,
@@ -96,8 +96,8 @@
     "title": "スポーツ科学実習Ⅰ",
     "term": 1,
     "credit": 1,
-    "lecturer": "後藤　太之、石田　まさみ",
-    "id": 9
+    "lecturer": "後藤 太之,石田 まさみ",
+    "id": 128
   },
   {
     "divide": 0,
@@ -106,8 +106,8 @@
     "title": "スポーツ科学実習Ⅱ",
     "term": 2,
     "credit": 1,
-    "lecturer": "後藤　太之、石田　まさみ",
-    "id": 10
+    "lecturer": "後藤 太之,石田 まさみ",
+    "id": 129
   },
   {
     "divide": 0,
@@ -116,8 +116,8 @@
     "title": "ＴＯＥＩＣⅠ",
     "term": 0,
     "credit": 1,
-    "lecturer": "ハーバート　ジョン",
-    "id": 11
+    "lecturer": "ハーバート ジョン",
+    "id": 130
   },
   {
     "divide": 0,
@@ -126,8 +126,8 @@
     "title": "ＴＯＥＩＣⅡ",
     "term": 0,
     "credit": 2,
-    "lecturer": "ハーバート　ジョン",
-    "id": 12
+    "lecturer": "ハーバート ジョン",
+    "id": 131
   },
   {
     "divide": 0,
@@ -136,8 +136,8 @@
     "title": "ＴＯＥＩＣⅢ",
     "term": 0,
     "credit": 3,
-    "lecturer": "ハーバート　ジョン",
-    "id": 13
+    "lecturer": "ハーバート ジョン",
+    "id": 132
   },
   {
     "divide": 1,
@@ -146,8 +146,8 @@
     "title": "測量学Ⅲ",
     "term": 2,
     "credit": 2,
-    "lecturer": "生田　麻実",
-    "id": 14
+    "lecturer": "生田 麻実",
+    "id": 133
   },
   {
     "divide": 1,
@@ -156,8 +156,8 @@
     "title": "水工水理学",
     "term": 1,
     "credit": 2,
-    "lecturer": "上野　卓也",
-    "id": 15
+    "lecturer": "上野 卓也",
+    "id": 134
   },
   {
     "divide": 1,
@@ -166,8 +166,8 @@
     "title": "鋼構造学Ⅰ",
     "term": 1,
     "credit": 1,
-    "lecturer": "三好　崇夫",
-    "id": 16
+    "lecturer": "三好 崇夫",
+    "id": 135
   },
   {
     "divide": 1,
@@ -176,8 +176,8 @@
     "title": "鋼構造学Ⅱ",
     "term": 2,
     "credit": 1,
-    "lecturer": "三好　崇夫",
-    "id": 17
+    "lecturer": "三好 崇夫",
+    "id": 136
   },
   {
     "divide": 1,
@@ -186,8 +186,8 @@
     "title": "構造設計学",
     "term": 2,
     "credit": 2,
-    "lecturer": "川村　弘昌",
-    "id": 18
+    "lecturer": "川村 弘昌",
+    "id": 137
   },
   {
     "divide": 1,
@@ -196,8 +196,8 @@
     "title": "建設法規",
     "term": 2,
     "credit": 1,
-    "lecturer": "小野　暁",
-    "id": 19
+    "lecturer": "小野 暁",
+    "id": 138
   },
   {
     "divide": 1,
@@ -206,8 +206,8 @@
     "title": "社会基盤メインテナンス工学",
     "term": 1,
     "credit": 2,
-    "lecturer": "三好　崇夫、武田　字浦",
-    "id": 20
+    "lecturer": "三好 崇夫,武田 字浦",
+    "id": 139
   },
   {
     "divide": 1,
@@ -216,8 +216,8 @@
     "title": "防災工学",
     "term": 2,
     "credit": 2,
-    "lecturer": "鍋島　康之、小川　芳也",
-    "id": 21
+    "lecturer": "鍋島 康之,小川 芳也",
+    "id": 140
   },
   {
     "divide": 1,
@@ -226,8 +226,8 @@
     "title": "環境工学",
     "term": 2,
     "credit": 2,
-    "lecturer": "小野　暁",
-    "id": 22
+    "lecturer": "小野 暁",
+    "id": 141
   },
   {
     "divide": 1,
@@ -236,8 +236,8 @@
     "title": "都市計画",
     "term": 1,
     "credit": 2,
-    "lecturer": "佐伯　亮太、平石　年弘",
-    "id": 23
+    "lecturer": "佐伯 亮太,平石 年弘",
+    "id": 142
   },
   {
     "divide": 1,
@@ -246,8 +246,8 @@
     "title": "交通工学",
     "term": 1,
     "credit": 2,
-    "lecturer": "鍋島　康之、三好　崇夫",
-    "id": 24
+    "lecturer": "鍋島 康之,三好 崇夫",
+    "id": 143
   },
   {
     "divide": 1,
@@ -257,7 +257,7 @@
     "term": 0,
     "credit": 9,
     "lecturer": "Ｃ全",
-    "id": 25
+    "id": 144
   },
   {
     "divide": 1,
@@ -266,7 +266,7 @@
     "title": "測量学Ⅳ",
     "term": 0,
     "credit": 1,
-    "lecturer": "鍋島　康之",
-    "id": 26
+    "lecturer": "鍋島 康之",
+    "id": 145
   }
 ]

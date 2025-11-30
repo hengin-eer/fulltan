@@ -6,8 +6,8 @@
     "title": "国語Ⅳ",
     "term": 2,
     "credit": 2,
-    "lecturer": "善塔　正志",
-    "id": 0
+    "lecturer": "善塔 正志",
+    "id": 59
   },
   {
     "divide": 0,
@@ -16,8 +16,8 @@
     "title": "保健体育Ⅳ",
     "term": 0,
     "credit": 2,
-    "lecturer": "石田　まさみ、前田　忠紀",
-    "id": 1
+    "lecturer": "石田 まさみ,前田 忠紀",
+    "id": 60
   },
   {
     "divide": 0,
@@ -26,8 +26,8 @@
     "title": "英語ⅣＡ",
     "term": 1,
     "credit": 1,
-    "lecturer": "井上　英俊",
-    "id": 2
+    "lecturer": "井上 英俊",
+    "id": 61
   },
   {
     "divide": 0,
@@ -36,8 +36,8 @@
     "title": "英語ⅣＢ",
     "term": 2,
     "credit": 1,
-    "lecturer": "北川　千穂",
-    "id": 3
+    "lecturer": "北川 千穂",
+    "id": 62
   },
   {
     "divide": 0,
@@ -46,8 +46,8 @@
     "title": "英会話Ⅱ",
     "term": 1,
     "credit": 1,
-    "lecturer": "ハーバート　ジョン",
-    "id": 4
+    "lecturer": "ハーバート ジョン",
+    "id": 63
   },
   {
     "divide": 0,
@@ -56,8 +56,8 @@
     "title": "中国語",
     "term": 0,
     "credit": 2,
-    "lecturer": "有川　けい",
-    "id": 5
+    "lecturer": "有川 けい",
+    "id": 64
   },
   {
     "divide": 0,
@@ -66,8 +66,8 @@
     "title": "ドイツ語",
     "term": 0,
     "credit": 2,
-    "lecturer": "横田　一哉",
-    "id": 6
+    "lecturer": "横田 一哉",
+    "id": 65
   },
   {
     "divide": 0,
@@ -76,8 +76,8 @@
     "title": "フランス語",
     "term": 0,
     "credit": 2,
-    "lecturer": "藤本　智成",
-    "id": 7
+    "lecturer": "藤本 智成",
+    "id": 66
   },
   {
     "divide": 0,
@@ -86,8 +86,8 @@
     "title": "数学概論",
     "term": 2,
     "credit": 1,
-    "lecturer": "面田　康裕",
-    "id": 8
+    "lecturer": "面田 康裕",
+    "id": 67
   },
   {
     "divide": 1,
@@ -97,7 +97,7 @@
     "term": 1,
     "credit": 1,
     "lecturer": "全教員",
-    "id": 9
+    "id": 68
   },
   {
     "divide": 1,
@@ -107,7 +107,7 @@
     "term": 2,
     "credit": 1,
     "lecturer": "全教員",
-    "id": 10
+    "id": 69
   },
   {
     "divide": 1,
@@ -116,8 +116,8 @@
     "title": "応用数学",
     "term": 0,
     "credit": 4,
-    "lecturer": "河田　祥太郎",
-    "id": 11
+    "lecturer": "河田 祥太郎",
+    "id": 70
   },
   {
     "divide": 1,
@@ -126,8 +126,8 @@
     "title": "物理学入門Ａ",
     "term": 1,
     "credit": 1,
-    "lecturer": "小笠原　弘道",
-    "id": 12
+    "lecturer": "小笠原 弘道",
+    "id": 71
   },
   {
     "divide": 1,
@@ -136,8 +136,8 @@
     "title": "建築構造力学ⅢＡ",
     "term": 1,
     "credit": 1,
-    "lecturer": "荘所　直哉",
-    "id": 13
+    "lecturer": "荘所 直哉",
+    "id": 72
   },
   {
     "divide": 1,
@@ -146,8 +146,8 @@
     "title": "建築構造力学ⅢＢ",
     "term": 2,
     "credit": 1,
-    "lecturer": "中川　肇",
-    "id": 14
+    "lecturer": "中川 肇",
+    "id": 73
   },
   {
     "divide": 1,
@@ -156,8 +156,8 @@
     "title": "建築工学実験",
     "term": 0,
     "credit": 2,
-    "lecturer": "荘所　直哉、角野　嘉則",
-    "id": 15
+    "lecturer": "荘所 直哉,角野 嘉則",
+    "id": 74
   },
   {
     "divide": 1,
@@ -166,8 +166,8 @@
     "title": "鉄筋コンクリート構造Ａ",
     "term": 1,
     "credit": 1,
-    "lecturer": "角野　嘉則",
-    "id": 16
+    "lecturer": "角野 嘉則",
+    "id": 75
   },
   {
     "divide": 1,
@@ -176,8 +176,8 @@
     "title": "鉄筋コンクリート構造Ｂ",
     "term": 2,
     "credit": 1,
-    "lecturer": "角野　嘉則",
-    "id": 17
+    "lecturer": "角野 嘉則",
+    "id": 76
   },
   {
     "divide": 1,
@@ -186,8 +186,8 @@
     "title": "鋼構造Ａ",
     "term": 1,
     "credit": 1,
-    "lecturer": "中川　肇",
-    "id": 18
+    "lecturer": "中川 肇",
+    "id": 77
   },
   {
     "divide": 1,
@@ -196,8 +196,8 @@
     "title": "鋼構造Ｂ",
     "term": 2,
     "credit": 1,
-    "lecturer": "中川　肇",
-    "id": 19
+    "lecturer": "中川 肇",
+    "id": 78
   },
   {
     "divide": 1,
@@ -206,8 +206,8 @@
     "title": "建築計画Ⅲ",
     "term": 1,
     "credit": 2,
-    "lecturer": "本塚　智貴",
-    "id": 20
+    "lecturer": "本塚 智貴",
+    "id": 79
   },
   {
     "divide": 1,
@@ -216,8 +216,8 @@
     "title": "建築設計演習ⅣＡ",
     "term": 1,
     "credit": 2,
-    "lecturer": "東野　アドリアナ、水島　あかね、小林　直紀",
-    "id": 21
+    "lecturer": "東野 アドリアナ,水島 あかね,小林 直紀",
+    "id": 80
   },
   {
     "divide": 1,
@@ -226,8 +226,8 @@
     "title": "建築設計演習ⅣＢ",
     "term": 2,
     "credit": 4,
-    "lecturer": "水島　あかね、神家　昭雄、本塚　智貴",
-    "id": 22
+    "lecturer": "水島 あかね,神家 昭雄,本塚 智貴",
+    "id": 81
   },
   {
     "divide": 1,
@@ -236,8 +236,8 @@
     "title": "建築環境工学Ⅱ",
     "term": 1,
     "credit": 2,
-    "lecturer": "飛田　国人",
-    "id": 23
+    "lecturer": "飛田 国人",
+    "id": 82
   },
   {
     "divide": 1,
@@ -247,7 +247,7 @@
     "term": 2,
     "credit": 1,
     "lecturer": "Ａ全",
-    "id": 24
+    "id": 83
   },
   {
     "divide": 1,
@@ -256,8 +256,8 @@
     "title": "物理学入門Ｂ",
     "term": 2,
     "credit": 1,
-    "lecturer": "小笠原　弘道",
-    "id": 25
+    "lecturer": "小笠原 弘道",
+    "id": 84
   },
   {
     "divide": 1,
@@ -266,8 +266,8 @@
     "title": "建築史Ⅱ",
     "term": 1,
     "credit": 1,
-    "lecturer": "東野　アドリアナ",
-    "id": 26
+    "lecturer": "東野 アドリアナ",
+    "id": 85
   },
   {
     "divide": 1,
@@ -276,8 +276,8 @@
     "title": "建築計画Ⅳ",
     "term": 2,
     "credit": 2,
-    "lecturer": "工藤　和美、東野　アドリアナ、木村　達也",
-    "id": 27
+    "lecturer": "工藤 和美,東野 アドリアナ,木村 達也",
+    "id": 86
   },
   {
     "divide": 1,
@@ -287,6 +287,6 @@
     "term": 0,
     "credit": 2,
     "lecturer": "Ａ全",
-    "id": 28
+    "id": 87
   }
 ]

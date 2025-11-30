@@ -6,7 +6,7 @@
     "title": "国語Ⅰ-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "丹下　暖子",
+    "lecturer": "丹下 暖子",
     "id": 0
   },
   {
@@ -16,7 +16,7 @@
     "title": "国語Ⅰ-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "丹下　暖子",
+    "lecturer": "丹下 暖子",
     "id": 1
   },
   {
@@ -26,7 +26,7 @@
     "title": "歴史-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "荒川　裕紀",
+    "lecturer": "荒川 裕紀",
     "id": 2
   },
   {
@@ -36,7 +36,7 @@
     "title": "歴史-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "荒川　裕紀",
+    "lecturer": "荒川 裕紀",
     "id": 3
   },
   {
@@ -46,7 +46,7 @@
     "title": "数学ⅠＡ-1",
     "term": 1,
     "credit": 2,
-    "lecturer": "高田　功",
+    "lecturer": "高田 功",
     "id": 4
   },
   {
@@ -56,7 +56,7 @@
     "title": "数学ⅠＡ-2",
     "term": 2,
     "credit": 2,
-    "lecturer": "高田　功",
+    "lecturer": "高田 功",
     "id": 5
   },
   {
@@ -66,7 +66,7 @@
     "title": "数学ⅠＢ-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "面田　康裕",
+    "lecturer": "面田 康裕",
     "id": 6
   },
   {
@@ -76,7 +76,7 @@
     "title": "数学ⅠＢ-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "面田　康裕",
+    "lecturer": "面田 康裕",
     "id": 7
   },
   {
@@ -86,7 +86,7 @@
     "title": "サイエンスⅠ-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "武内　將洋",
+    "lecturer": "武内 將洋",
     "id": 8
   },
   {
@@ -96,7 +96,7 @@
     "title": "サイエンスⅠ-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "武内　將洋",
+    "lecturer": "武内 將洋",
     "id": 9
   },
   {
@@ -106,7 +106,7 @@
     "title": "保健体育Ⅰ-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "後藤　太之、小林　優希",
+    "lecturer": "後藤 太之,小林 優希",
     "id": 10
   },
   {
@@ -116,7 +116,7 @@
     "title": "保健体育Ⅰ-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "後藤　太之、石田　まさみ",
+    "lecturer": "後藤 太之,石田 まさみ",
     "id": 11
   },
   {
@@ -126,7 +126,7 @@
     "title": "英語ⅠＡ-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "穐本　浩美",
+    "lecturer": "穐本 浩美",
     "id": 12
   },
   {
@@ -136,7 +136,7 @@
     "title": "英語ⅠＡ-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "穐本　浩美",
+    "lecturer": "穐本 浩美",
     "id": 13
   },
   {
@@ -146,7 +146,7 @@
     "title": "英語ⅠＢ-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "北川　千穂",
+    "lecturer": "北川 千穂",
     "id": 14
   },
   {
@@ -156,7 +156,7 @@
     "title": "英語ⅠＢ-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "北川　千穂",
+    "lecturer": "北川 千穂",
     "id": 15
   },
   {
@@ -166,7 +166,7 @@
     "title": "アクティブラーニング入門",
     "term": 1,
     "credit": 1,
-    "lecturer": "武田　字浦、平野　雅嗣、水野　裕貴",
+    "lecturer": "武田 字浦,平野 雅嗣,水野 裕貴",
     "id": 16
   },
   {
@@ -176,7 +176,7 @@
     "title": "データサイエンス入門",
     "term": 1,
     "credit": 1,
-    "lecturer": "土田　隼之、野村　隼人",
+    "lecturer": "土田 隼之,野村 隼人",
     "id": 17
   },
   {
@@ -186,7 +186,7 @@
     "title": "データサイエンス演習",
     "term": 2,
     "credit": 1,
-    "lecturer": "土田　隼之、野村　隼人、榎本　隆二",
+    "lecturer": "土田 隼之,野村 隼人,榎本 隆二",
     "id": 18
   },
   {
@@ -196,7 +196,7 @@
     "title": "音楽-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "泉　由香",
+    "lecturer": "泉 由香",
     "id": 19
   },
   {
@@ -206,7 +206,7 @@
     "title": "音楽-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "泉　由香",
+    "lecturer": "泉 由香",
     "id": 20
   },
   {
@@ -216,7 +216,7 @@
     "title": "美術-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "大野　良平",
+    "lecturer": "大野 良平",
     "id": 21
   },
   {
@@ -226,7 +226,7 @@
     "title": "美術-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "大野　良平",
+    "lecturer": "大野 良平",
     "id": 22
   },
   {
@@ -236,7 +236,7 @@
     "title": "防災リテラシー",
     "term": 2,
     "credit": 1,
-    "lecturer": "本塚　智貴、ゲゼール　イェガネ",
+    "lecturer": "本塚 智貴,ゲゼール イェガネ",
     "id": 23
   },
   {
@@ -246,7 +246,7 @@
     "title": "電気回路Ⅰ",
     "term": 2,
     "credit": 2,
-    "lecturer": "大向　雅人",
+    "lecturer": "大向 雅人",
     "id": 24
   },
   {
@@ -256,7 +256,7 @@
     "title": "プログラミングⅠ",
     "term": 2,
     "credit": 2,
-    "lecturer": "平野　雅嗣",
+    "lecturer": "平野 雅嗣",
     "id": 25
   },
   {
@@ -266,7 +266,7 @@
     "title": "コンピュータリテラシー Ａ",
     "term": 1,
     "credit": 1,
-    "lecturer": "中井　優一",
+    "lecturer": "中井 優一",
     "id": 26
   },
   {
@@ -276,7 +276,7 @@
     "title": "コンピュータリテラシー Ｂ",
     "term": 2,
     "credit": 1,
-    "lecturer": "中井　優一",
+    "lecturer": "中井 優一",
     "id": 27
   },
   {
@@ -286,7 +286,7 @@
     "title": "電気情報工学実験基礎",
     "term": 1,
     "credit": 1,
-    "lecturer": "梶村　好宏、廣田　敦志",
+    "lecturer": "梶村 好宏,廣田 敦志",
     "id": 28
   }
 ]

@@ -6,7 +6,7 @@
     "title": "国語Ⅳ",
     "term": 1,
     "credit": 2,
-    "lecturer": "善塔　正志",
+    "lecturer": "善塔 正志",
     "id": 0
   },
   {
@@ -16,7 +16,7 @@
     "title": "保健体育Ⅳ-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "後藤　太之、小林　優希",
+    "lecturer": "後藤 太之,小林 優希",
     "id": 1
   },
   {
@@ -26,7 +26,7 @@
     "title": "保健体育Ⅳ-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "後藤　太之、前田　忠紀",
+    "lecturer": "後藤 太之,前田 忠紀",
     "id": 2
   },
   {
@@ -36,7 +36,7 @@
     "title": "英語ⅣＡ",
     "term": 1,
     "credit": 1,
-    "lecturer": "穐本　浩美",
+    "lecturer": "穐本 浩美",
     "id": 3
   },
   {
@@ -46,7 +46,7 @@
     "title": "英語ⅣＢ",
     "term": 2,
     "credit": 1,
-    "lecturer": "森元　奈菜",
+    "lecturer": "森元 奈菜",
     "id": 4
   },
   {
@@ -56,7 +56,7 @@
     "title": "Advanced English Ⅰ",
     "term": 1,
     "credit": 1,
-    "lecturer": "ハーバート　ジョン",
+    "lecturer": "ハーバート ジョン",
     "id": 5
   },
   {
@@ -66,7 +66,7 @@
     "title": "Advanced English Ⅱ",
     "term": 2,
     "credit": 1,
-    "lecturer": "ハーバート　ジョン",
+    "lecturer": "ハーバート ジョン",
     "id": 6
   },
   {
@@ -76,7 +76,7 @@
     "title": "中国語-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "有川　けい",
+    "lecturer": "有川 けい",
     "id": 7
   },
   {
@@ -86,7 +86,7 @@
     "title": "中国語-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "有川　けい",
+    "lecturer": "有川 けい",
     "id": 8
   },
   {
@@ -96,7 +96,7 @@
     "title": "ドイツ語-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "横田　一哉",
+    "lecturer": "横田 一哉",
     "id": 9
   },
   {
@@ -106,7 +106,7 @@
     "title": "ドイツ語-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "横田　一哉",
+    "lecturer": "横田 一哉",
     "id": 10
   },
   {
@@ -116,7 +116,7 @@
     "title": "フランス語-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "藤本　智成",
+    "lecturer": "藤本 智成",
     "id": 11
   },
   {
@@ -126,7 +126,7 @@
     "title": "フランス語-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "藤本　智成",
+    "lecturer": "藤本 智成",
     "id": 12
   },
   {
@@ -136,7 +136,7 @@
     "title": "数学概論",
     "term": 2,
     "credit": 1,
-    "lecturer": "松宮　篤",
+    "lecturer": "松宮 篤",
     "id": 13
   },
   {
@@ -166,7 +166,7 @@
     "title": "応用物理学Ⅰ",
     "term": 1,
     "credit": 1,
-    "lecturer": "小笠原　弘道",
+    "lecturer": "小笠原 弘道",
     "id": 16
   },
   {
@@ -176,7 +176,7 @@
     "title": "電子回路Ⅰ",
     "term": 1,
     "credit": 1,
-    "lecturer": "大向　雅人",
+    "lecturer": "大向 雅人",
     "id": 17
   },
   {
@@ -196,7 +196,7 @@
     "title": "応用数学Ａ",
     "term": 1,
     "credit": 2,
-    "lecturer": "小笠原　弘道",
+    "lecturer": "小笠原 弘道",
     "id": 19
   },
   {
@@ -206,7 +206,7 @@
     "title": "応用数学Ｂ",
     "term": 2,
     "credit": 2,
-    "lecturer": "小笠原　弘道",
+    "lecturer": "小笠原 弘道",
     "id": 20
   },
   {
@@ -216,7 +216,7 @@
     "title": "電気磁気学ⅡＡ",
     "term": 1,
     "credit": 1,
-    "lecturer": "大向　雅人",
+    "lecturer": "大向 雅人",
     "id": 21
   },
   {
@@ -226,7 +226,7 @@
     "title": "電気磁気学ⅡＢ",
     "term": 2,
     "credit": 1,
-    "lecturer": "大向　雅人",
+    "lecturer": "大向 雅人",
     "id": 22
   },
   {
@@ -236,7 +236,7 @@
     "title": "固体物性Ａ",
     "term": 1,
     "credit": 2,
-    "lecturer": "大向　雅人",
+    "lecturer": "大向 雅人",
     "id": 23
   },
   {
@@ -246,7 +246,7 @@
     "title": "固体物性Ｂ",
     "term": 2,
     "credit": 2,
-    "lecturer": "大向　雅人",
+    "lecturer": "大向 雅人",
     "id": 24
   },
   {
@@ -256,7 +256,7 @@
     "title": "応用物理学Ⅱ",
     "term": 2,
     "credit": 1,
-    "lecturer": "中西　寛",
+    "lecturer": "中西 寛",
     "id": 25
   },
   {
@@ -266,7 +266,7 @@
     "title": "過渡現象論",
     "term": 1,
     "credit": 1,
-    "lecturer": "周山　大慶",
+    "lecturer": "周山 大慶",
     "id": 26
   },
   {
@@ -276,7 +276,7 @@
     "title": "電子回路Ⅱ",
     "term": 2,
     "credit": 1,
-    "lecturer": "大向　雅人",
+    "lecturer": "大向 雅人",
     "id": 27
   },
   {
@@ -286,7 +286,7 @@
     "title": "制御工学Ⅰ",
     "term": 2,
     "credit": 2,
-    "lecturer": "榎本　隆二",
+    "lecturer": "榎本 隆二",
     "id": 28
   },
   {
@@ -296,7 +296,7 @@
     "title": "電気電子工学実験ⅠＡ",
     "term": 1,
     "credit": 2,
-    "lecturer": "廣田　敦志、寺澤　真一、平野　雅嗣、野村　隼人",
+    "lecturer": "廣田 敦志,寺澤 真一,平野 雅嗣,野村 隼人",
     "id": 29
   },
   {
@@ -306,7 +306,7 @@
     "title": "電気電子工学実験ⅠB",
     "term": 2,
     "credit": 2,
-    "lecturer": "廣田　敦志、寺澤　真一、平野　雅嗣、出口　幹雄",
+    "lecturer": "廣田 敦志,寺澤 真一,平野 雅嗣,出口 幹雄",
     "id": 30
   },
   {
@@ -336,7 +336,7 @@
     "title": "計算機アーキテクチャ",
     "term": 1,
     "credit": 2,
-    "lecturer": "野村　隼人",
+    "lecturer": "野村 隼人",
     "id": 33
   },
   {
@@ -346,7 +346,7 @@
     "title": "離散数学Ａ",
     "term": 1,
     "credit": 1,
-    "lecturer": "濱田　幸弘",
+    "lecturer": "濱田 幸弘",
     "id": 34
   },
   {
@@ -356,7 +356,7 @@
     "title": "離散数学Ｂ",
     "term": 2,
     "credit": 1,
-    "lecturer": "濱田　幸弘",
+    "lecturer": "濱田 幸弘",
     "id": 35
   }
 ]

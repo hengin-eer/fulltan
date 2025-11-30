@@ -6,8 +6,8 @@
     "title": "国語Ⅳ",
     "term": 2,
     "credit": 2,
-    "lecturer": "善塔　正志",
-    "id": 0
+    "lecturer": "善塔 正志",
+    "id": 57
   },
   {
     "divide": 0,
@@ -16,8 +16,8 @@
     "title": "保健体育Ⅳ",
     "term": 0,
     "credit": 2,
-    "lecturer": "石田　まさみ、前田　忠紀",
-    "id": 1
+    "lecturer": "石田 まさみ,前田 忠紀",
+    "id": 58
   },
   {
     "divide": 0,
@@ -26,8 +26,8 @@
     "title": "英語ⅣＡ",
     "term": 1,
     "credit": 1,
-    "lecturer": "井上　英俊",
-    "id": 2
+    "lecturer": "井上 英俊",
+    "id": 59
   },
   {
     "divide": 0,
@@ -36,8 +36,8 @@
     "title": "英語ⅣＢ",
     "term": 2,
     "credit": 1,
-    "lecturer": "北川　千穂",
-    "id": 3
+    "lecturer": "北川 千穂",
+    "id": 60
   },
   {
     "divide": 0,
@@ -46,8 +46,8 @@
     "title": "英会話Ⅱ",
     "term": 1,
     "credit": 1,
-    "lecturer": "ハーバート　ジョン",
-    "id": 4
+    "lecturer": "ハーバート ジョン",
+    "id": 61
   },
   {
     "divide": 0,
@@ -56,8 +56,8 @@
     "title": "中国語",
     "term": 0,
     "credit": 2,
-    "lecturer": "有川　けい",
-    "id": 5
+    "lecturer": "有川 けい",
+    "id": 62
   },
   {
     "divide": 0,
@@ -66,8 +66,8 @@
     "title": "ドイツ語",
     "term": 0,
     "credit": 2,
-    "lecturer": "横田　一哉",
-    "id": 6
+    "lecturer": "横田 一哉",
+    "id": 63
   },
   {
     "divide": 0,
@@ -76,8 +76,8 @@
     "title": "フランス語",
     "term": 0,
     "credit": 2,
-    "lecturer": "藤本　智成",
-    "id": 7
+    "lecturer": "藤本 智成",
+    "id": 64
   },
   {
     "divide": 0,
@@ -86,8 +86,8 @@
     "title": "数学概論",
     "term": 2,
     "credit": 1,
-    "lecturer": "面田　康裕",
-    "id": 8
+    "lecturer": "面田 康裕",
+    "id": 65
   },
   {
     "divide": 1,
@@ -97,7 +97,7 @@
     "term": 1,
     "credit": 1,
     "lecturer": "全教員",
-    "id": 9
+    "id": 66
   },
   {
     "divide": 1,
@@ -107,7 +107,7 @@
     "term": 2,
     "credit": 1,
     "lecturer": "全教員",
-    "id": 10
+    "id": 67
   },
   {
     "divide": 1,
@@ -116,8 +116,8 @@
     "title": "応用数学",
     "term": 0,
     "credit": 4,
-    "lecturer": "河田　祥太郎",
-    "id": 11
+    "lecturer": "河田 祥太郎",
+    "id": 68
   },
   {
     "divide": 1,
@@ -126,8 +126,8 @@
     "title": "物理学概論",
     "term": 0,
     "credit": 2,
-    "lecturer": "小笠原　弘道",
-    "id": 12
+    "lecturer": "小笠原 弘道",
+    "id": 69
   },
   {
     "divide": 1,
@@ -136,8 +136,8 @@
     "title": "情報処理Ⅱ",
     "term": 2,
     "credit": 2,
-    "lecturer": "三好　崇夫",
-    "id": 13
+    "lecturer": "三好 崇夫",
+    "id": 70
   },
   {
     "divide": 1,
@@ -146,8 +146,8 @@
     "title": "コンクリート構造学",
     "term": 2,
     "credit": 2,
-    "lecturer": "武田　字浦",
-    "id": 14
+    "lecturer": "武田 字浦",
+    "id": 71
   },
   {
     "divide": 1,
@@ -156,8 +156,8 @@
     "title": "構造力学Ⅲ",
     "term": 1,
     "credit": 2,
-    "lecturer": "三好　崇夫",
-    "id": 15
+    "lecturer": "三好 崇夫",
+    "id": 72
   },
   {
     "divide": 1,
@@ -166,8 +166,8 @@
     "title": "水理学Ⅲ",
     "term": 1,
     "credit": 2,
-    "lecturer": "神田　佳一",
-    "id": 16
+    "lecturer": "神田 佳一",
+    "id": 73
   },
   {
     "divide": 1,
@@ -176,8 +176,8 @@
     "title": "地盤工学Ⅲ",
     "term": 1,
     "credit": 2,
-    "lecturer": "鍋島　康之",
-    "id": 17
+    "lecturer": "鍋島 康之",
+    "id": 74
   },
   {
     "divide": 1,
@@ -186,8 +186,8 @@
     "title": "社会基盤マネジメント",
     "term": 1,
     "credit": 2,
-    "lecturer": "江口　忠臣、武田　字浦",
-    "id": 18
+    "lecturer": "江口 忠臣,武田 字浦",
+    "id": 75
   },
   {
     "divide": 1,
@@ -196,8 +196,8 @@
     "title": "衛生工学",
     "term": 2,
     "credit": 2,
-    "lecturer": "渡部　守義",
-    "id": 19
+    "lecturer": "渡部 守義",
+    "id": 76
   },
   {
     "divide": 1,
@@ -206,8 +206,8 @@
     "title": "計画学Ⅰ",
     "term": 1,
     "credit": 1,
-    "lecturer": "石松　一仁",
-    "id": 20
+    "lecturer": "石松 一仁",
+    "id": 77
   },
   {
     "divide": 1,
@@ -216,8 +216,8 @@
     "title": "計画学Ⅱ",
     "term": 2,
     "credit": 1,
-    "lecturer": "石松　一仁",
-    "id": 21
+    "lecturer": "石松 一仁",
+    "id": 78
   },
   {
     "divide": 1,
@@ -226,8 +226,8 @@
     "title": "工学実験Ⅱ",
     "term": 1,
     "credit": 2,
-    "lecturer": "神田　佳一、鍋島　康之",
-    "id": 22
+    "lecturer": "神田 佳一,鍋島 康之",
+    "id": 79
   },
   {
     "divide": 1,
@@ -236,8 +236,8 @@
     "title": "工学実験Ⅲ",
     "term": 2,
     "credit": 2,
-    "lecturer": "三好　崇夫、渡部　守義",
-    "id": 23
+    "lecturer": "三好 崇夫,渡部 守義",
+    "id": 80
   },
   {
     "divide": 1,
@@ -247,6 +247,6 @@
     "term": 0,
     "credit": 1,
     "lecturer": "Ｃ全",
-    "id": 24
+    "id": 81
   }
 ]

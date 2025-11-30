@@ -6,7 +6,7 @@
     "title": "国語Ⅰ",
     "term": 0,
     "credit": 2,
-    "lecturer": "善塔　正志",
+    "lecturer": "善塔 正志",
     "id": 0
   },
   {
@@ -16,7 +16,7 @@
     "title": "歴史",
     "term": 0,
     "credit": 2,
-    "lecturer": "荒川　裕紀",
+    "lecturer": "荒川 裕紀",
     "id": 1
   },
   {
@@ -26,7 +26,7 @@
     "title": "数学ⅠＡ",
     "term": 0,
     "credit": 4,
-    "lecturer": "高田　功",
+    "lecturer": "高田 功",
     "id": 2
   },
   {
@@ -36,7 +36,7 @@
     "title": "数学ⅠＢ",
     "term": 0,
     "credit": 2,
-    "lecturer": "面田　康裕",
+    "lecturer": "面田 康裕",
     "id": 3
   },
   {
@@ -46,7 +46,7 @@
     "title": "サイエンスⅠ",
     "term": 0,
     "credit": 2,
-    "lecturer": "武内　將洋",
+    "lecturer": "武内 將洋",
     "id": 4
   },
   {
@@ -56,7 +56,7 @@
     "title": "保健体育Ⅰ",
     "term": 0,
     "credit": 2,
-    "lecturer": "後藤　太之、石田　まさみ、小林　優希",
+    "lecturer": "後藤 太之,石田 まさみ,小林 優希",
     "id": 5
   },
   {
@@ -66,7 +66,7 @@
     "title": "英語ⅠＡ",
     "term": 0,
     "credit": 2,
-    "lecturer": "穐本　浩美",
+    "lecturer": "穐本 浩美",
     "id": 6
   },
   {
@@ -76,7 +76,7 @@
     "title": "英語ⅠＢ",
     "term": 0,
     "credit": 2,
-    "lecturer": "井上　英俊",
+    "lecturer": "井上 英俊",
     "id": 7
   },
   {
@@ -86,7 +86,7 @@
     "title": "アクティブラーニング入門",
     "term": 1,
     "credit": 1,
-    "lecturer": "武田　字浦、平野　雅嗣、荒木　勇輝、安藤　悠太",
+    "lecturer": "武田 字浦,平野 雅嗣,荒木 勇輝,安藤 悠太",
     "id": 8
   },
   {
@@ -96,7 +96,7 @@
     "title": "データサイエンス入門",
     "term": 1,
     "credit": 1,
-    "lecturer": "土田　隼之、野村　隼人",
+    "lecturer": "土田 隼之,野村 隼人",
     "id": 9
   },
   {
@@ -106,7 +106,7 @@
     "title": "データサイエンス演習",
     "term": 2,
     "credit": 1,
-    "lecturer": "土田　隼之、野村　隼人、榎本　隆二",
+    "lecturer": "土田 隼之,野村 隼人,榎本 隆二",
     "id": 10
   },
   {
@@ -116,7 +116,7 @@
     "title": "音楽",
     "term": 0,
     "credit": 2,
-    "lecturer": "泉　由香",
+    "lecturer": "泉 由香",
     "id": 11
   },
   {
@@ -126,7 +126,7 @@
     "title": "美術",
     "term": 0,
     "credit": 2,
-    "lecturer": "大野　良平",
+    "lecturer": "大野 良平",
     "id": 12
   },
   {
@@ -136,7 +136,7 @@
     "title": "防災リテラシー",
     "term": 2,
     "credit": 1,
-    "lecturer": "鍋島　康之、本塚　智貴、難波　良彰、木作　尚子、梶本　忠、皐月　建豪",
+    "lecturer": "鍋島 康之,本塚 智貴,難波 良彰,木作 尚子,梶本 忠,皐月 建豪",
     "id": 13
   },
   {
@@ -146,7 +146,7 @@
     "title": "情報基礎",
     "term": 1,
     "credit": 1,
-    "lecturer": "田中　誠一",
+    "lecturer": "田中 誠一",
     "id": 14
   },
   {
@@ -156,7 +156,7 @@
     "title": "設計製図ⅠＡ",
     "term": 1,
     "credit": 1,
-    "lecturer": "史　鳳輝",
+    "lecturer": "史 鳳輝",
     "id": 15
   },
   {
@@ -166,7 +166,7 @@
     "title": "設計製図ⅠＢ",
     "term": 2,
     "credit": 1,
-    "lecturer": "史　鳳輝",
+    "lecturer": "史 鳳輝",
     "id": 16
   },
   {
@@ -176,7 +176,7 @@
     "title": "工作実習ⅠＡ",
     "term": 1,
     "credit": 1,
-    "lecturer": "加藤　隆弘、大森　茂俊",
+    "lecturer": "加藤 隆弘,大森 茂俊",
     "id": 17
   },
   {
@@ -186,7 +186,7 @@
     "title": "工作実習ⅠＢ",
     "term": 2,
     "credit": 1,
-    "lecturer": "加藤　隆弘、大森　茂俊",
+    "lecturer": "加藤 隆弘,大森 茂俊",
     "id": 18
   },
   {
@@ -196,7 +196,7 @@
     "title": "機械工学実習ⅠＡ",
     "term": 1,
     "credit": 1,
-    "lecturer": "森下　智博",
+    "lecturer": "森下 智博",
     "id": 19
   },
   {
@@ -206,7 +206,7 @@
     "title": "機械工学実習ⅠＢ",
     "term": 2,
     "credit": 1,
-    "lecturer": "加藤　隆弘、大森　茂俊",
+    "lecturer": "加藤 隆弘,大森 茂俊",
     "id": 20
   }
 ]

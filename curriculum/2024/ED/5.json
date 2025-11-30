@@ -6,8 +6,8 @@
     "title": "英会話Ⅱ",
     "term": 2,
     "credit": 1,
-    "lecturer": "ハーバート　ジョン",
-    "id": 0
+    "lecturer": "ハーバート ジョン",
+    "id": 34
   },
   {
     "divide": 0,
@@ -16,8 +16,8 @@
     "title": "英語Ⅴ",
     "term": 1,
     "credit": 2,
-    "lecturer": "田丸　歩実",
-    "id": 1
+    "lecturer": "田丸 歩実",
+    "id": 35
   },
   {
     "divide": 0,
@@ -26,8 +26,8 @@
     "title": "Advanced English Ⅲ",
     "term": 1,
     "credit": 1,
-    "lecturer": "ハーバート　ジョン",
-    "id": 2
+    "lecturer": "ハーバート ジョン",
+    "id": 36
   },
   {
     "divide": 0,
@@ -36,8 +36,8 @@
     "title": "Advanced English Ⅳ",
     "term": 2,
     "credit": 2,
-    "lecturer": "ハーバート　ジョン",
-    "id": 3
+    "lecturer": "ハーバート ジョン",
+    "id": 37
   },
   {
     "divide": 0,
@@ -46,8 +46,8 @@
     "title": "国語表現概論",
     "term": 1,
     "credit": 2,
-    "lecturer": "丹下　暖子",
-    "id": 4
+    "lecturer": "丹下 暖子",
+    "id": 38
   },
   {
     "divide": 0,
@@ -56,8 +56,8 @@
     "title": "法学概論",
     "term": 1,
     "credit": 2,
-    "lecturer": "林　礼釗",
-    "id": 5
+    "lecturer": "林 礼釗",
+    "id": 39
   },
   {
     "divide": 0,
@@ -66,8 +66,8 @@
     "title": "哲学概論",
     "term": 1,
     "credit": 2,
-    "lecturer": "荒川　裕紀",
-    "id": 6
+    "lecturer": "荒川 裕紀",
+    "id": 40
   },
   {
     "divide": 0,
@@ -76,8 +76,8 @@
     "title": "生物物理化学",
     "term": 2,
     "credit": 1,
-    "lecturer": "井上　努",
-    "id": 7
+    "lecturer": "井上 努",
+    "id": 41
   },
   {
     "divide": 0,
@@ -86,8 +86,8 @@
     "title": "科学技術と環境",
     "term": 2,
     "credit": 1,
-    "lecturer": "今井　良一",
-    "id": 8
+    "lecturer": "今井 良一",
+    "id": 42
   },
   {
     "divide": 0,
@@ -96,8 +96,8 @@
     "title": "スポーツ科学実習Ⅰ",
     "term": 1,
     "credit": 1,
-    "lecturer": "後藤　太之、前田　忠紀",
-    "id": 9
+    "lecturer": "後藤 太之,前田 忠紀",
+    "id": 43
   },
   {
     "divide": 0,
@@ -106,8 +106,8 @@
     "title": "スポーツ科学実習Ⅱ",
     "term": 2,
     "credit": 1,
-    "lecturer": "後藤　太之、石田　まさみ",
-    "id": 10
+    "lecturer": "後藤 太之,石田 まさみ",
+    "id": 44
   },
   {
     "divide": 0,
@@ -116,8 +116,8 @@
     "title": "ＴＯＥＩＣⅠ",
     "term": 0,
     "credit": 1,
-    "lecturer": "井上　英俊",
-    "id": 11
+    "lecturer": "井上 英俊",
+    "id": 45
   },
   {
     "divide": 0,
@@ -126,8 +126,8 @@
     "title": "ＴＯＥＩＣⅡ",
     "term": 0,
     "credit": 2,
-    "lecturer": "井上　英俊",
-    "id": 12
+    "lecturer": "井上 英俊",
+    "id": 46
   },
   {
     "divide": 0,
@@ -136,8 +136,8 @@
     "title": "ＴＯＥＩＣⅢ",
     "term": 0,
     "credit": 3,
-    "lecturer": "井上　英俊",
-    "id": 13
+    "lecturer": "井上 英俊",
+    "id": 47
   },
   {
     "divide": 1,
@@ -146,8 +146,8 @@
     "title": "知的財産権",
     "term": 1,
     "credit": 1,
-    "lecturer": "森定　勇二",
-    "id": 14
+    "lecturer": "森定 勇二",
+    "id": 48
   },
   {
     "divide": 1,
@@ -156,8 +156,8 @@
     "title": "コンピュータシミュレーション",
     "term": 1,
     "credit": 1,
-    "lecturer": "大向　雅人",
-    "id": 15
+    "lecturer": "大向 雅人",
+    "id": 49
   },
   {
     "divide": 1,
@@ -166,8 +166,8 @@
     "title": "卒業研究",
     "term": 0,
     "credit": 9,
-    "lecturer": "Ｅ全　、中西　寛",
-    "id": 16
+    "lecturer": "Ｅ全 ,中西 寛",
+    "id": 50
   },
   {
     "divide": 1,
@@ -176,8 +176,8 @@
     "title": "パワーエレクトロニクス",
     "term": 2,
     "credit": 1,
-    "lecturer": "廣田　敦志",
-    "id": 17
+    "lecturer": "廣田 敦志",
+    "id": 51
   },
   {
     "divide": 1,
@@ -186,8 +186,8 @@
     "title": "エネルギー伝送工学",
     "term": 2,
     "credit": 1,
-    "lecturer": "廣田　敦志",
-    "id": 18
+    "lecturer": "廣田 敦志",
+    "id": 52
   },
   {
     "divide": 1,
@@ -196,8 +196,8 @@
     "title": "エネルギー変換工学",
     "term": 1,
     "credit": 1,
-    "lecturer": "廣田　敦志",
-    "id": 19
+    "lecturer": "廣田 敦志",
+    "id": 53
   },
   {
     "divide": 1,
@@ -206,8 +206,8 @@
     "title": "電気電子工学実験Ⅱ",
     "term": 1,
     "credit": 2,
-    "lecturer": "秋山　肇",
-    "id": 20
+    "lecturer": "秋山 肇",
+    "id": 54
   },
   {
     "divide": 1,
@@ -216,8 +216,8 @@
     "title": "確率・統計",
     "term": 1,
     "credit": 2,
-    "lecturer": "濱田　幸弘",
-    "id": 21
+    "lecturer": "濱田 幸弘",
+    "id": 55
   },
   {
     "divide": 1,
@@ -226,8 +226,8 @@
     "title": "情報理論",
     "term": 2,
     "credit": 1,
-    "lecturer": "土田　隼之",
-    "id": 22
+    "lecturer": "土田 隼之",
+    "id": 56
   },
   {
     "divide": 1,
@@ -236,8 +236,8 @@
     "title": "基礎通信工学",
     "term": 1,
     "credit": 2,
-    "lecturer": "河合　正",
-    "id": 23
+    "lecturer": "河合 正",
+    "id": 57
   },
   {
     "divide": 1,
@@ -246,8 +246,8 @@
     "title": "通信方式",
     "term": 2,
     "credit": 1,
-    "lecturer": "河合　正",
-    "id": 24
+    "lecturer": "河合 正",
+    "id": 58
   },
   {
     "divide": 1,
@@ -256,8 +256,8 @@
     "title": "情報ネットワーク",
     "term": 1,
     "credit": 1,
-    "lecturer": "井上　一成",
-    "id": 25
+    "lecturer": "井上 一成",
+    "id": 59
   },
   {
     "divide": 1,
@@ -266,8 +266,8 @@
     "title": "制御工学Ⅱ",
     "term": 2,
     "credit": 1,
-    "lecturer": "上　泰",
-    "id": 26
+    "lecturer": "上 泰",
+    "id": 60
   },
   {
     "divide": 1,
@@ -276,8 +276,8 @@
     "title": "固体物性Ｃ",
     "term": 1,
     "credit": 1,
-    "lecturer": "大向　雅人",
-    "id": 27
+    "lecturer": "大向 雅人",
+    "id": 61
   },
   {
     "divide": 1,
@@ -286,8 +286,8 @@
     "title": "電子応用",
     "term": 2,
     "credit": 1,
-    "lecturer": "大向　雅人",
-    "id": 28
+    "lecturer": "大向 雅人",
+    "id": 62
   },
   {
     "divide": 1,
@@ -296,8 +296,8 @@
     "title": "画像工学",
     "term": 2,
     "credit": 2,
-    "lecturer": "平野　雅嗣",
-    "id": 29
+    "lecturer": "平野 雅嗣",
+    "id": 63
   },
   {
     "divide": 1,
@@ -306,8 +306,8 @@
     "title": "電気電子資格Ⅰ",
     "term": 0,
     "credit": 1,
-    "lecturer": "大向　雅人",
-    "id": 30
+    "lecturer": "大向 雅人",
+    "id": 64
   },
   {
     "divide": 1,
@@ -316,7 +316,7 @@
     "title": "電気電子資格Ⅱ",
     "term": 0,
     "credit": 1,
-    "lecturer": "大向　雅人",
-    "id": 31
+    "lecturer": "大向 雅人",
+    "id": 65
   }
 ]

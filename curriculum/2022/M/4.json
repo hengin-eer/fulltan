@@ -6,8 +6,8 @@
     "title": "国語Ⅳ",
     "term": 1,
     "credit": 2,
-    "lecturer": "善塔　正志",
-    "id": 0
+    "lecturer": "善塔 正志",
+    "id": 64
   },
   {
     "divide": 0,
@@ -16,8 +16,8 @@
     "title": "保健体育Ⅳ",
     "term": 0,
     "credit": 2,
-    "lecturer": "石田　まさみ、前田　忠紀",
-    "id": 1
+    "lecturer": "石田 まさみ,前田 忠紀",
+    "id": 65
   },
   {
     "divide": 0,
@@ -26,8 +26,8 @@
     "title": "英語ⅣＡ",
     "term": 2,
     "credit": 1,
-    "lecturer": "井上　英俊",
-    "id": 2
+    "lecturer": "井上 英俊",
+    "id": 66
   },
   {
     "divide": 0,
@@ -36,8 +36,8 @@
     "title": "英語ⅣＢ",
     "term": 1,
     "credit": 1,
-    "lecturer": "北川　千穂",
-    "id": 3
+    "lecturer": "北川 千穂",
+    "id": 67
   },
   {
     "divide": 0,
@@ -46,8 +46,8 @@
     "title": "英会話Ⅱ",
     "term": 2,
     "credit": 1,
-    "lecturer": "ハーバート　ジョン",
-    "id": 4
+    "lecturer": "ハーバート ジョン",
+    "id": 68
   },
   {
     "divide": 0,
@@ -56,8 +56,8 @@
     "title": "中国語",
     "term": 0,
     "credit": 2,
-    "lecturer": "有川　けい",
-    "id": 5
+    "lecturer": "有川 けい",
+    "id": 69
   },
   {
     "divide": 0,
@@ -66,8 +66,8 @@
     "title": "ドイツ語",
     "term": 0,
     "credit": 2,
-    "lecturer": "横田　一哉",
-    "id": 6
+    "lecturer": "横田 一哉",
+    "id": 70
   },
   {
     "divide": 0,
@@ -76,8 +76,8 @@
     "title": "フランス語",
     "term": 0,
     "credit": 2,
-    "lecturer": "藤本　智成",
-    "id": 7
+    "lecturer": "藤本 智成",
+    "id": 71
   },
   {
     "divide": 0,
@@ -86,8 +86,8 @@
     "title": "数学概論",
     "term": 2,
     "credit": 1,
-    "lecturer": "長尾　秀人",
-    "id": 8
+    "lecturer": "長尾 秀人",
+    "id": 72
   },
   {
     "divide": 1,
@@ -97,7 +97,7 @@
     "term": 1,
     "credit": 1,
     "lecturer": "全教員",
-    "id": 9
+    "id": 73
   },
   {
     "divide": 1,
@@ -107,7 +107,7 @@
     "term": 2,
     "credit": 1,
     "lecturer": "全教員",
-    "id": 10
+    "id": 74
   },
   {
     "divide": 1,
@@ -116,8 +116,8 @@
     "title": "応用数学Ａ",
     "term": 1,
     "credit": 2,
-    "lecturer": "小笠原　弘道",
-    "id": 11
+    "lecturer": "小笠原 弘道",
+    "id": 75
   },
   {
     "divide": 1,
@@ -126,8 +126,8 @@
     "title": "応用数学Ｂ",
     "term": 2,
     "credit": 2,
-    "lecturer": "小笠原　弘道",
-    "id": 12
+    "lecturer": "小笠原 弘道",
+    "id": 76
   },
   {
     "divide": 1,
@@ -136,8 +136,8 @@
     "title": "応用物理Ａ",
     "term": 1,
     "credit": 1,
-    "lecturer": "小笠原　弘道",
-    "id": 13
+    "lecturer": "小笠原 弘道",
+    "id": 77
   },
   {
     "divide": 1,
@@ -146,8 +146,8 @@
     "title": "応用物理Ｂ",
     "term": 2,
     "credit": 1,
-    "lecturer": "小笠原　弘道",
-    "id": 14
+    "lecturer": "小笠原 弘道",
+    "id": 78
   },
   {
     "divide": 1,
@@ -156,8 +156,8 @@
     "title": "プログラミング応用",
     "term": 1,
     "credit": 2,
-    "lecturer": "榎本　隆二",
-    "id": 15
+    "lecturer": "榎本 隆二",
+    "id": 79
   },
   {
     "divide": 1,
@@ -166,8 +166,8 @@
     "title": "設計製図ⅣＡ",
     "term": 1,
     "credit": 2,
-    "lecturer": "史　鳳輝",
-    "id": 16
+    "lecturer": "史 鳳輝",
+    "id": 80
   },
   {
     "divide": 1,
@@ -176,8 +176,8 @@
     "title": "設計製図ⅣＢ",
     "term": 2,
     "credit": 2,
-    "lecturer": "史　鳳輝",
-    "id": 17
+    "lecturer": "史 鳳輝",
+    "id": 81
   },
   {
     "divide": 1,
@@ -186,8 +186,8 @@
     "title": "工作実習ⅣＡ",
     "term": 1,
     "credit": 1,
-    "lecturer": "大森　茂俊",
-    "id": 18
+    "lecturer": "大森 茂俊",
+    "id": 82
   },
   {
     "divide": 1,
@@ -196,8 +196,8 @@
     "title": "工作実習ⅣＢ",
     "term": 2,
     "credit": 1,
-    "lecturer": "大森　茂俊",
-    "id": 19
+    "lecturer": "大森 茂俊",
+    "id": 83
   },
   {
     "divide": 1,
@@ -206,8 +206,8 @@
     "title": "機械工学実験ⅡＡ",
     "term": 1,
     "credit": 1,
-    "lecturer": "加藤　隆弘、國峰　寛司、関森　大介、史　鳳輝、田中　誠一",
-    "id": 20
+    "lecturer": "加藤 隆弘,國峰 寛司,関森 大介,史 鳳輝,田中 誠一",
+    "id": 84
   },
   {
     "divide": 1,
@@ -216,8 +216,8 @@
     "title": "機械工学実験ⅡＢ",
     "term": 2,
     "credit": 1,
-    "lecturer": "加藤　隆弘、境田　彰芳、関森　大介、田中　誠一、松塚　直樹、大西　祥作",
-    "id": 21
+    "lecturer": "加藤 隆弘,境田 彰芳,関森 大介,田中 誠一,松塚 直樹,大西 祥作",
+    "id": 85
   },
   {
     "divide": 1,
@@ -226,8 +226,8 @@
     "title": "工業力学Ⅱ",
     "term": 1,
     "credit": 2,
-    "lecturer": "國峰　寛司",
-    "id": 22
+    "lecturer": "國峰 寛司",
+    "id": 86
   },
   {
     "divide": 1,
@@ -236,8 +236,8 @@
     "title": "設計工学Ⅱ",
     "term": 1,
     "credit": 1,
-    "lecturer": "史　鳳輝",
-    "id": 23
+    "lecturer": "史 鳳輝",
+    "id": 87
   },
   {
     "divide": 1,
@@ -246,8 +246,8 @@
     "title": "材料力学Ⅱ",
     "term": 2,
     "credit": 2,
-    "lecturer": "森下　智博",
-    "id": 24
+    "lecturer": "森下 智博",
+    "id": 88
   },
   {
     "divide": 1,
@@ -256,8 +256,8 @@
     "title": "熱力学Ⅰ",
     "term": 1,
     "credit": 2,
-    "lecturer": "藤原　誠之",
-    "id": 25
+    "lecturer": "藤原 誠之",
+    "id": 89
   },
   {
     "divide": 1,
@@ -266,8 +266,8 @@
     "title": "流体力学Ⅰ",
     "term": 2,
     "credit": 2,
-    "lecturer": "田中　誠一",
-    "id": 26
+    "lecturer": "田中 誠一",
+    "id": 90
   },
   {
     "divide": 1,
@@ -276,8 +276,8 @@
     "title": "機械力学",
     "term": 1,
     "credit": 2,
-    "lecturer": "関森　大介",
-    "id": 27
+    "lecturer": "関森 大介",
+    "id": 91
   },
   {
     "divide": 1,
@@ -286,8 +286,8 @@
     "title": "電気電子工学Ⅰ",
     "term": 2,
     "credit": 1,
-    "lecturer": "平野　雅嗣",
-    "id": 28
+    "lecturer": "平野 雅嗣",
+    "id": 92
   },
   {
     "divide": 1,
@@ -297,7 +297,7 @@
     "term": 2,
     "credit": 1,
     "lecturer": "Ｍ全",
-    "id": 29
+    "id": 93
   },
   {
     "divide": 1,
@@ -307,6 +307,6 @@
     "term": 0,
     "credit": 1,
     "lecturer": "Ｍ全",
-    "id": 30
+    "id": 94
   }
 ]

@@ -6,8 +6,8 @@
     "title": "国語Ⅲ",
     "term": 1,
     "credit": 1,
-    "lecturer": "丹下　暖子",
-    "id": 0
+    "lecturer": "丹下 暖子",
+    "id": 63
   },
   {
     "divide": 0,
@@ -16,8 +16,8 @@
     "title": "政治学-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "黒杭　良美",
-    "id": 1
+    "lecturer": "黒杭 良美",
+    "id": 64
   },
   {
     "divide": 0,
@@ -26,8 +26,8 @@
     "title": "政治学-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "山中　信幸",
-    "id": 2
+    "lecturer": "山中 信幸",
+    "id": 65
   },
   {
     "divide": 0,
@@ -36,8 +36,8 @@
     "title": "数学ⅢＡ-1",
     "term": 1,
     "credit": 2,
-    "lecturer": "高田　功",
-    "id": 3
+    "lecturer": "高田 功",
+    "id": 66
   },
   {
     "divide": 0,
@@ -46,8 +46,8 @@
     "title": "数学ⅢＡ-2",
     "term": 2,
     "credit": 2,
-    "lecturer": "高田　功",
-    "id": 4
+    "lecturer": "高田 功",
+    "id": 67
   },
   {
     "divide": 0,
@@ -56,8 +56,8 @@
     "title": "数学ⅢＢ-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "長尾　秀人",
-    "id": 5
+    "lecturer": "長尾 秀人",
+    "id": 68
   },
   {
     "divide": 0,
@@ -66,8 +66,8 @@
     "title": "数学ⅢＢ-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "長尾　秀人",
-    "id": 6
+    "lecturer": "長尾 秀人",
+    "id": 69
   },
   {
     "divide": 0,
@@ -76,8 +76,8 @@
     "title": "サイエンスⅢＡ-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "櫻井　康博",
-    "id": 7
+    "lecturer": "櫻井 康博",
+    "id": 70
   },
   {
     "divide": 0,
@@ -86,8 +86,8 @@
     "title": "サイエンスⅢＡ-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "櫻井　信之",
-    "id": 8
+    "lecturer": "櫻井 信之",
+    "id": 71
   },
   {
     "divide": 0,
@@ -96,8 +96,8 @@
     "title": "サイエンスⅢＢ-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "井上　努",
-    "id": 9
+    "lecturer": "井上 努",
+    "id": 72
   },
   {
     "divide": 0,
@@ -106,8 +106,8 @@
     "title": "サイエンスⅢＢ-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "井上　努",
-    "id": 10
+    "lecturer": "井上 努",
+    "id": 73
   },
   {
     "divide": 0,
@@ -116,8 +116,8 @@
     "title": "保健体育Ⅲ-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "後藤　太之、前田　忠紀",
-    "id": 11
+    "lecturer": "後藤 太之,前田 忠紀",
+    "id": 74
   },
   {
     "divide": 0,
@@ -126,8 +126,8 @@
     "title": "保健体育Ⅲ-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "後藤　太之、前田　忠紀",
-    "id": 12
+    "lecturer": "後藤 太之,前田 忠紀",
+    "id": 75
   },
   {
     "divide": 0,
@@ -136,8 +136,8 @@
     "title": "英語Ⅲ-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "北川　千穂",
-    "id": 13
+    "lecturer": "北川 千穂",
+    "id": 76
   },
   {
     "divide": 0,
@@ -146,8 +146,8 @@
     "title": "英語Ⅲ-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "森元　奈菜",
-    "id": 14
+    "lecturer": "森元 奈菜",
+    "id": 77
   },
   {
     "divide": 0,
@@ -156,8 +156,8 @@
     "title": "英会話Ⅰ-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "ハーバート　ジョン",
-    "id": 15
+    "lecturer": "ハーバート ジョン",
+    "id": 78
   },
   {
     "divide": 0,
@@ -166,8 +166,8 @@
     "title": "英会話Ⅰ-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "ハーバート　ジョン",
-    "id": 16
+    "lecturer": "ハーバート ジョン",
+    "id": 79
   },
   {
     "divide": 0,
@@ -177,7 +177,7 @@
     "term": 1,
     "credit": 1,
     "lecturer": "全教員",
-    "id": 17
+    "id": 80
   },
   {
     "divide": 0,
@@ -187,7 +187,7 @@
     "term": 2,
     "credit": 1,
     "lecturer": "全教員",
-    "id": 18
+    "id": 81
   },
   {
     "divide": 1,
@@ -196,8 +196,8 @@
     "title": "設計製図ⅢＡ",
     "term": 1,
     "credit": 2,
-    "lecturer": "井奥　斎",
-    "id": 19
+    "lecturer": "井奥 斎",
+    "id": 82
   },
   {
     "divide": 1,
@@ -206,8 +206,8 @@
     "title": "設計製図ⅢＢ",
     "term": 2,
     "credit": 2,
-    "lecturer": "井奥　斎",
-    "id": 20
+    "lecturer": "井奥 斎",
+    "id": 83
   },
   {
     "divide": 1,
@@ -216,8 +216,8 @@
     "title": "工作実習ⅢＡ",
     "term": 1,
     "credit": 1,
-    "lecturer": "加藤　隆弘、大森　茂俊",
-    "id": 21
+    "lecturer": "加藤 隆弘,大森 茂俊",
+    "id": 84
   },
   {
     "divide": 1,
@@ -226,8 +226,8 @@
     "title": "工作実習ⅢＢ",
     "term": 2,
     "credit": 1,
-    "lecturer": "加藤　隆弘、大森　茂俊",
-    "id": 22
+    "lecturer": "加藤 隆弘,大森 茂俊",
+    "id": 85
   },
   {
     "divide": 1,
@@ -236,8 +236,8 @@
     "title": "機械工学実験ⅠＡ",
     "term": 1,
     "credit": 1,
-    "lecturer": "加藤　隆弘、國峰　寛司、田中　誠一、藤原　誠之",
-    "id": 23
+    "lecturer": "加藤 隆弘,國峰 寛司,田中 誠一,藤原 誠之",
+    "id": 86
   },
   {
     "divide": 1,
@@ -246,8 +246,8 @@
     "title": "機械工学実験ⅠＢ",
     "term": 2,
     "credit": 1,
-    "lecturer": "加藤　隆弘、國峰　寛司、森下　智博、田中　誠一",
-    "id": 24
+    "lecturer": "加藤 隆弘,國峰 寛司,森下 智博,田中 誠一",
+    "id": 87
   },
   {
     "divide": 1,
@@ -256,8 +256,8 @@
     "title": "機構学",
     "term": 2,
     "credit": 1,
-    "lecturer": "関森　大介",
-    "id": 25
+    "lecturer": "関森 大介",
+    "id": 88
   },
   {
     "divide": 1,
@@ -266,8 +266,8 @@
     "title": "工業力学Ⅰ",
     "term": 1,
     "credit": 2,
-    "lecturer": "國峰　寛司",
-    "id": 26
+    "lecturer": "國峰 寛司",
+    "id": 89
   },
   {
     "divide": 1,
@@ -276,8 +276,8 @@
     "title": "材料学Ⅰ",
     "term": 2,
     "credit": 2,
-    "lecturer": "國峰　寛司",
-    "id": 27
+    "lecturer": "國峰 寛司",
+    "id": 90
   },
   {
     "divide": 1,
@@ -286,8 +286,8 @@
     "title": "設計工学Ⅰ",
     "term": 2,
     "credit": 1,
-    "lecturer": "松塚　直樹",
-    "id": 28
+    "lecturer": "松塚 直樹",
+    "id": 91
   },
   {
     "divide": 1,
@@ -296,7 +296,7 @@
     "title": "材料力学Ⅰ",
     "term": 1,
     "credit": 2,
-    "lecturer": "森下　智博",
-    "id": 29
+    "lecturer": "森下 智博",
+    "id": 92
   }
 ]

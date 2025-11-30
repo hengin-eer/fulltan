@@ -6,8 +6,8 @@
     "title": "英語ⅣＡ",
     "term": 1,
     "credit": 1,
-    "lecturer": "穐本　浩美",
-    "id": 0
+    "lecturer": "穐本 浩美",
+    "id": 94
   },
   {
     "divide": 0,
@@ -16,8 +16,8 @@
     "title": "英語ⅣＢ",
     "term": 2,
     "credit": 1,
-    "lecturer": "北川　千穂",
-    "id": 1
+    "lecturer": "北川 千穂",
+    "id": 95
   },
   {
     "divide": 0,
@@ -26,8 +26,8 @@
     "title": "Advanced English Ⅰ",
     "term": 1,
     "credit": 1,
-    "lecturer": "ハーバート　ジョン",
-    "id": 2
+    "lecturer": "ハーバート ジョン",
+    "id": 96
   },
   {
     "divide": 0,
@@ -36,8 +36,8 @@
     "title": "Advanced English Ⅱ",
     "term": 2,
     "credit": 1,
-    "lecturer": "ハーバート　ジョン",
-    "id": 3
+    "lecturer": "ハーバート ジョン",
+    "id": 97
   },
   {
     "divide": 0,
@@ -46,8 +46,8 @@
     "title": "第二外国語（中国語）-1",
     "term": 1,
     "credit": 1,
-    "lecturer": "有川　けい",
-    "id": 4
+    "lecturer": "有川 けい",
+    "id": 98
   },
   {
     "divide": 0,
@@ -56,8 +56,8 @@
     "title": "第二外国語（中国語）-2",
     "term": 2,
     "credit": 1,
-    "lecturer": "有川　けい",
-    "id": 5
+    "lecturer": "有川 けい",
+    "id": 99
   },
   {
     "divide": 0,
@@ -66,8 +66,8 @@
     "title": "国語表現概論",
     "term": 1,
     "credit": 2,
-    "lecturer": "丹下　暖子",
-    "id": 6
+    "lecturer": "丹下 暖子",
+    "id": 100
   },
   {
     "divide": 0,
@@ -76,8 +76,8 @@
     "title": "リーディングスキル",
     "term": 1,
     "credit": 2,
-    "lecturer": "小西　洋子",
-    "id": 7
+    "lecturer": "小西 洋子",
+    "id": 101
   },
   {
     "divide": 0,
@@ -86,8 +86,8 @@
     "title": "法学概論",
     "term": 1,
     "credit": 2,
-    "lecturer": "林　礼釗",
-    "id": 8
+    "lecturer": "林 礼釗",
+    "id": 102
   },
   {
     "divide": 0,
@@ -96,8 +96,8 @@
     "title": "哲学概論",
     "term": 1,
     "credit": 2,
-    "lecturer": "荒川　裕紀",
-    "id": 9
+    "lecturer": "荒川 裕紀",
+    "id": 103
   },
   {
     "divide": 0,
@@ -106,8 +106,8 @@
     "title": "スポーツ科学実習Ⅰ",
     "term": 1,
     "credit": 1,
-    "lecturer": "後藤　太之、前田　忠紀",
-    "id": 10
+    "lecturer": "後藤 太之,前田 忠紀",
+    "id": 104
   },
   {
     "divide": 0,
@@ -116,8 +116,8 @@
     "title": "スポーツ科学実習Ⅱ",
     "term": 2,
     "credit": 1,
-    "lecturer": "後藤　太之、前田　忠紀",
-    "id": 11
+    "lecturer": "後藤 太之,前田 忠紀",
+    "id": 105
   },
   {
     "divide": 0,
@@ -126,8 +126,8 @@
     "title": "ＩＣＴ資格Ⅲ",
     "term": 0,
     "credit": 1,
-    "lecturer": "武内　將洋",
-    "id": 12
+    "lecturer": "武内 將洋",
+    "id": 106
   },
   {
     "divide": 0,
@@ -136,8 +136,8 @@
     "title": "数学資格Ⅲ",
     "term": 0,
     "credit": 1,
-    "lecturer": "面田　康裕",
-    "id": 13
+    "lecturer": "面田 康裕",
+    "id": 107
   },
   {
     "divide": 1,
@@ -147,7 +147,7 @@
     "term": 1,
     "credit": 1,
     "lecturer": "全教員",
-    "id": 14
+    "id": 108
   },
   {
     "divide": 1,
@@ -157,7 +157,7 @@
     "term": 2,
     "credit": 1,
     "lecturer": "全教員",
-    "id": 15
+    "id": 109
   },
   {
     "divide": 1,
@@ -166,8 +166,8 @@
     "title": "応用数学Ａ",
     "term": 1,
     "credit": 2,
-    "lecturer": "小笠原　弘道",
-    "id": 16
+    "lecturer": "小笠原 弘道",
+    "id": 110
   },
   {
     "divide": 1,
@@ -176,8 +176,8 @@
     "title": "応用数学Ｂ",
     "term": 2,
     "credit": 2,
-    "lecturer": "小笠原　弘道",
-    "id": 17
+    "lecturer": "小笠原 弘道",
+    "id": 111
   },
   {
     "divide": 1,
@@ -186,8 +186,8 @@
     "title": "応用物理Ａ",
     "term": 1,
     "credit": 1,
-    "lecturer": "小笠原　弘道",
-    "id": 18
+    "lecturer": "小笠原 弘道",
+    "id": 112
   },
   {
     "divide": 1,
@@ -196,8 +196,8 @@
     "title": "応用物理Ｂ",
     "term": 2,
     "credit": 1,
-    "lecturer": "島田　英彦",
-    "id": 19
+    "lecturer": "島田 英彦",
+    "id": 113
   },
   {
     "divide": 1,
@@ -206,8 +206,8 @@
     "title": "プログラミング応用",
     "term": 1,
     "credit": 2,
-    "lecturer": "マウンイェ　スウィソウ",
-    "id": 20
+    "lecturer": "マウンイェ スウィソウ",
+    "id": 114
   },
   {
     "divide": 1,
@@ -216,8 +216,8 @@
     "title": "設計製図ⅣＡ",
     "term": 1,
     "credit": 2,
-    "lecturer": "史　鳳輝",
-    "id": 21
+    "lecturer": "史 鳳輝",
+    "id": 115
   },
   {
     "divide": 1,
@@ -226,8 +226,8 @@
     "title": "設計製図ⅣＢ",
     "term": 2,
     "credit": 2,
-    "lecturer": "史　鳳輝",
-    "id": 22
+    "lecturer": "史 鳳輝",
+    "id": 116
   },
   {
     "divide": 1,
@@ -236,8 +236,8 @@
     "title": "工作実習ⅣＡ",
     "term": 1,
     "credit": 1,
-    "lecturer": "大森　茂俊",
-    "id": 23
+    "lecturer": "大森 茂俊",
+    "id": 117
   },
   {
     "divide": 1,
@@ -246,8 +246,8 @@
     "title": "工作実習ⅣＢ",
     "term": 2,
     "credit": 1,
-    "lecturer": "大森　茂俊",
-    "id": 24
+    "lecturer": "大森 茂俊",
+    "id": 118
   },
   {
     "divide": 1,
@@ -256,8 +256,8 @@
     "title": "機械工学実験ⅡＡ",
     "term": 1,
     "credit": 1,
-    "lecturer": "加藤　隆弘、國峰　寛司、関森　大介、田中　誠一、史　鳳輝",
-    "id": 25
+    "lecturer": "加藤 隆弘,國峰 寛司,関森 大介,田中 誠一,史 鳳輝",
+    "id": 119
   },
   {
     "divide": 1,
@@ -266,8 +266,8 @@
     "title": "機械工学実験ⅡＢ",
     "term": 2,
     "credit": 1,
-    "lecturer": "加藤　隆弘、関森　大介、マウンイェ　スウィソウ、松塚　直樹",
-    "id": 26
+    "lecturer": "加藤 隆弘,関森 大介,マウンイェ スウィソウ,松塚 直樹",
+    "id": 120
   },
   {
     "divide": 1,
@@ -276,8 +276,8 @@
     "title": "工業力学Ⅱ",
     "term": 1,
     "credit": 2,
-    "lecturer": "國峰　寛司",
-    "id": 27
+    "lecturer": "國峰 寛司",
+    "id": 121
   },
   {
     "divide": 1,
@@ -286,8 +286,8 @@
     "title": "設計工学Ⅱ",
     "term": 1,
     "credit": 1,
-    "lecturer": "史　鳳輝",
-    "id": 28
+    "lecturer": "史 鳳輝",
+    "id": 122
   },
   {
     "divide": 1,
@@ -296,8 +296,8 @@
     "title": "材料力学Ⅱ",
     "term": 2,
     "credit": 2,
-    "lecturer": "森下　智博",
-    "id": 29
+    "lecturer": "森下 智博",
+    "id": 123
   },
   {
     "divide": 1,
@@ -306,8 +306,8 @@
     "title": "熱力学Ⅰ",
     "term": 1,
     "credit": 2,
-    "lecturer": "中村　格芳",
-    "id": 30
+    "lecturer": "中村 格芳",
+    "id": 124
   },
   {
     "divide": 1,
@@ -316,8 +316,8 @@
     "title": "流体力学Ⅰ",
     "term": 2,
     "credit": 2,
-    "lecturer": "田中　誠一",
-    "id": 31
+    "lecturer": "田中 誠一",
+    "id": 125
   },
   {
     "divide": 1,
@@ -326,8 +326,8 @@
     "title": "機械力学",
     "term": 1,
     "credit": 2,
-    "lecturer": "関森　大介",
-    "id": 32
+    "lecturer": "関森 大介",
+    "id": 126
   },
   {
     "divide": 1,
@@ -336,8 +336,8 @@
     "title": "電気電子工学Ⅰ",
     "term": 2,
     "credit": 1,
-    "lecturer": "細川　篤",
-    "id": 33
+    "lecturer": "細川 篤",
+    "id": 127
   },
   {
     "divide": 1,
@@ -347,7 +347,7 @@
     "term": 2,
     "credit": 1,
     "lecturer": "Ｍ全",
-    "id": 34
+    "id": 128
   },
   {
     "divide": 1,
@@ -356,7 +356,7 @@
     "title": "機械インターンシップⅠ",
     "term": 0,
     "credit": 1,
-    "lecturer": "Ｍ全　、企業等担当者",
-    "id": 35
+    "lecturer": "Ｍ全 ,企業等担当者",
+    "id": 129
   }
 ]
